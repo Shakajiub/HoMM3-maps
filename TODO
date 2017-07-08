@@ -1,13 +1,14 @@
 -----| 6p-ffa |-----
 
 Overall
-- Water decorations (inc. UG)     ~95%
-- Resources                         0%
-- Monsters                          0%
-- Artifacts                         0%
+- Resources                        ~2%
+- Monsters                        ~80%
+- Artifacts                       ~20%
 
 Individual objects
-- (3, 39, 1) Seer's Hut messages.
+- Quest Guard messages: (103,31,1)
+- Seer's Hut messages: (3,39,1) (49,47,1) (13,22,1) (37,66,1) (63,43,1)
+  (95,99,1) (76,93,0) (32,92,0) (38,67,0) (91,55,0) (16,25,0) (83,37,1)
 
 
 -----| Ironfist |-----
