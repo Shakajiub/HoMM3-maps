@@ -1,5 +1,7 @@
 -----| 6p-ffa |-----
 
+- Map name
+
 Individual objects
 - Quest Guard messages: (103,31,1)
 - Seer's Hut messages: (3,39,1) (49,47,1) (13,22,1) (37,66,1) (63,43,1)
@@ -9,3 +11,10 @@ Individual objects
 -----| Ironfist |-----
 
 TODO todos
+
+
+-----| Taming Dragons |-----
+
+- Proper event texts
+- Timed events (story, objective)
+- Resources, artifacts, monsters
