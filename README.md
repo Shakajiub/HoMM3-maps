@@ -1,5 +1,5 @@
 # HoMM3-maps
-My maps for Heroes of Might and Magic III - Horn of the Abyss.
+My maps for Heroes of Might and Magic III - Horn of the Abyss (1.5.2).
 
 ![Stitch in Time screenshot](Screenshot/Stitch_in_Time-3.png?raw=true "Stitch in Time screenshot")
 
