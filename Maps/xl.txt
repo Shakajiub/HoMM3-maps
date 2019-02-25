@@ -1,0 +1,88 @@
+Town/Hero	Specialty	Skills				Spell			Artifact
+
+
+Castle
+MI Christian	Ballista	Leadership, Artillery					Ballista
+MI Sylvia	Navigation	Leadership, Navigation
+MI Lord Haart	Estates		Leadership, Estates, Necromancy				Amulet of the Undertaker
+MI Beatrice	Scouting	Leadership, Scouting
+MA Adelaide	Frost Ring	Wisdom, Water Magic		Frost Ring
+MA Loynis	Prayer		Wisdom, Water Magic		Prayer
+MA Caitlin	Gold		Wisdom, Intelligence		Cure
+MA Ingham	Monks		Wisdom, Air Magic		Lightning Bolt
+
+PR Ryland	Dendroids	Archery, Logistics		Slow
+
+
+Tower
+MI Torosar	Ballista	Wisdom, Artillery		Magic Arrow		Ballista
+MI Neela	Armorer		Wisdom, Armorer			Shield
+MI Piquedram	Gargoyles	Wisdom, Tactics			Stone Skin
+MI Iona		Genies		Wisdom, Offense			Dispel
+MA Solmyr	Chain Light.	Wisdom, Air Magic		Chain Lightning
+MA Cyra		Haste		Wisdom, Air Magic		Haste
+MA Aine		Gold		Wisdom, Intelligence		Cure
+MA Dracon	Enchanters	Wisdom, Water Magic		Same as Enchanters'
+
+
+Inferno
+MI Pyre		Ballista	Tactics, Artillery					Ballista
+MI Calh		Gogs		Tactics, Archery
+MI Octavia	Gold		Tactics, Estates
+MI Xeron	Devils		Tactics, Offense
+MA Ash		Bloodlust	Wisdom, Fire Magic		Bloodlust
+MA Xarfax	Fireball	Wisdom, Fire Magic		Fireball
+MA Zydar	Sorcery		Wisdom, Sorcery			Magic Arrow
+MA Olema	Weakness	Wisdom, Water Magic		Weakness
+
+PR Ignissa	Fire Elem.	Offense, Fire Magic		Magic Arrow, Curse, Blind
+
+
+Necropolis
+MI Ranloo	Ballista	Necromancy, Artillery		Haste			Ballista
+MI Galthran	Skeletons	Necromancy, Armorer		Shield
+MI Isra		Necromancy	Necromancy, Offense		Magic Arrow
+MI Clavius	Gold		Necromancy, Tactics		Stone Skin
+MA Thant	Animate Dead	Necromancy, Earth Magic		Animate Dead
+MA Septienna	Death Ripple	Necromancy, Earth Magic		Death Ripple
+MA Aislinn	Meteor Shower	Necromancy, Wisdom		Meteor Shower
+MA Vidomina	Necromancy	Necromancy, Fire Magic		Curse
+
+
+Stronghold
+MI Gurnisson	Ballista	Offense, Artillery					Ballista
+MI Crag Hack	Offense		Offense, Tactics
+MI Tyraxor	Wolf Riders	Offense, Logistics
+MI Kilgor	Behemoths	Offense, Armorer
+MA Gundula	Offense		Wisdom, Offense			Slow
+MA Terek	Haste		Wisdom, Tactics			Haste
+MA Dessa	Logistics	Wisdom, Logistics		Stone Skin
+MA Zubin	Precision	Wisdom, Air Magic		Precision
+
+
+Fortress
+MI Gerwulf	Ballista	Armorer, Artillery					Ballista
+MI Drakon	Gnolls		Armorer, Offense
+MI Wystan	Lizardmen	Armorer, Archery
+MI Tazar	Armorer		Armorer, Tactics
+MA Kinkeria	Learning	Wisdom, Learning		Slow
+MA Adrienne	Fire Magic	Wisdom, Fire Magic		Lvl 1-3 fire spells
+MA Mirlanda	Weakness	Wisdom, Water Magic		Weakness
+MA Merist	Stone Skin	Wisdom, Earth Magic		Stone Skin
+
+
+PR Voy		Navigation	Wisdom, Navigation		Summon Boat
+PR Eovacius	Clone		Wisdom, Water Magic		Clone
+PR Thorgrim	Resistance	Armorer, Resistance
+PR Ignatius	Imps		Tactics, Resistance
+PR Xyron	Inferno		Wisdom, Fire Magic		Inferno
+PR Edric	Griffins	Leadership, Armorer
+PR Sir Mullich	Speed		Leadership, Logistics
+PR Adela	Bless		Wisdom, Water Magic		Bless
+PR Cuthbert	Weakness	Wisdom, Water Magic		Weakness
+
+
+Notes/Ideas
+
+- Prison Heroes that carry the Grail.
+
