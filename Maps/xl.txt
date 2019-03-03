@@ -12,6 +12,7 @@ MA Caitlin	Gold		Wisdom, Intelligence		Cure
 MA Ingham	Monks		Wisdom, Air Magic		Lightning Bolt
 
 PR Ryland	Dendroids	Archery, Logistics		Slow
+PR Edric	Griffins	Leadership, Armorer		Counterstrike
 
 
 Tower
@@ -23,6 +24,9 @@ MA Solmyr	Chain Light.	Wisdom, Air Magic		Chain Lightning
 MA Cyra		Haste		Wisdom, Air Magic		Haste
 MA Aine		Gold		Wisdom, Intelligence		Cure
 MA Dracon	Enchanters	Wisdom, Water Magic		Same as Enchanters'
+
+PR Lorelei	Harpies		Tactics, Scouting		Disrupting Ray
+PR Coronius	Slayer		Wisdom, Scholar			Slayer
 
 
 Inferno
@@ -48,6 +52,8 @@ MA Septienna	Death Ripple	Necromancy, Earth Magic		Death Ripple
 MA Aislinn	Meteor Shower	Necromancy, Wisdom		Meteor Shower
 MA Vidomina	Necromancy	Necromancy, Fire Magic		Curse
 
+PR Dace		Minotaurs	Tactics, Offense		Sorrow
+
 
 Stronghold
 MI Gurnisson	Ballista	Offense, Artillery					Ballista
@@ -58,6 +64,8 @@ MA Gundula	Offense		Wisdom, Offense			Slow
 MA Terek	Haste		Wisdom, Tactics			Haste
 MA Dessa	Logistics	Wisdom, Logistics		Stone Skin
 MA Zubin	Precision	Wisdom, Air Magic		Precision
+
+PR Illor	Stormbirds	Tactics, Armorer		Bloodlust
 
 
 Fortress
@@ -70,19 +78,30 @@ MA Adrienne	Fire Magic	Wisdom, Fire Magic		Lvl 1-3 fire spells
 MA Mirlanda	Weakness	Wisdom, Water Magic		Weakness
 MA Merist	Stone Skin	Wisdom, Earth Magic		Stone Skin
 
+PR Tark		Nix		Offense, Armorer		Shield
+
 
 PR Voy		Navigation	Wisdom, Navigation		Summon Boat
 PR Eovacius	Clone		Wisdom, Water Magic		Clone
 PR Thorgrim	Resistance	Armorer, Resistance
 PR Ignatius	Imps		Tactics, Resistance
 PR Xyron	Inferno		Wisdom, Fire Magic		Inferno
-PR Edric	Griffins	Leadership, Armorer
 PR Sir Mullich	Speed		Leadership, Logistics
 PR Adela	Bless		Wisdom, Water Magic		Bless
 PR Cuthbert	Weakness	Wisdom, Water Magic		Weakness
 
 
+Creature Banks close-by
+
+Castle		1x Crypt, 1x Black Tower, 4x Griffin Conservatory, 1x Ruins
+Tower		1x Crypt, 1x Black Tower, 4x Experimental Shop
+Inferno		1x Crypt, 1x Black Tower, 2x Red Tower
+Necropolis	1x Crypt, 2x Black Tower, 1x Churchyard, 1x Mansion, 2x Red Tower
+Stronghold	1x Crypt, 1x Black Tower, 5x Wolf Raider Picket, 4x Pirate Cavern
+Fortress	1x Crypt, 1x Black Tower, 5x Dragon Fly Hive, 1x Spit
+
+
 Notes/Ideas
 
 - Prison Heroes that carry the Grail.
-
+- Use Vey portrait.
