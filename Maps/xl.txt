@@ -1,18 +1,18 @@
-Town/Hero	Specialty	Skills				Spell			Artifact
+Town/Hero	Specialty	Skills				Spell			Artifact		Other
 
 
 Castle
 MI Christian	Ballista	Leadership, Artillery					Ballista
 MI Sylvia	Navigation	Leadership, Navigation
-MI Lord Haart	Estates		Leadership, Estates, Necromancy				Amulet of the Undertaker
+MI Lord Haart	Estates		Leadership, Estates, Necromancy				Dead Man's Boots
 MI Beatrice	Scouting	Leadership, Scouting
 MA Adelaide	Frost Ring	Wisdom, Water Magic		Frost Ring
 MA Loynis	Prayer		Wisdom, Water Magic		Prayer
 MA Caitlin	Gold		Wisdom, Intelligence		Cure
 MA Ingham	Monks		Wisdom, Air Magic		Lightning Bolt
 
-MG Spells 1	...
-MG Spells 2	Animate Dead
+MG Spells 1	Magic Arrow
+MG Spells 2	Summon Boat, Animate Dead
 MG Spells 3	...
 
 PR Ryland	Dendroids	Archery, Logistics		Slow
@@ -30,12 +30,12 @@ MA Cyra		Haste		Wisdom, Air Magic		Haste
 MA Aine		Gold		Wisdom, Intelligence		Cure
 MA Dracon	Enchanters	Wisdom, Water Magic		Bless
 
-MG Spells 1	...
+MG Spells 1	Magic Arrow, Summon Boat
 MG Spells 2	...
 MG Spells 3	...
 
 PR Lorelei	Harpies		Tactics, Scouting		Disrupting Ray
-PR Coronius	Slayer		Wisdom, Scholar			Slayer
+PR Coronius	Slayer		Wisdom, Scholar, Tactics	Slayer						-1 Defense, +1 Spell Power
 
 
 Inferno
@@ -48,7 +48,7 @@ MA Xarfax	Fireball	Wisdom, Fire Magic		Fireball
 MA Zydar	Sorcery		Wisdom, Sorcery			Magic Arrow
 MA Olema	Weakness	Wisdom, Water Magic		Weakness
 
-MG Spells 1	...
+MG Spells 1	Magic Arrow, Summon Boat
 MG Spells 2	...
 MG Spells 3	...
 
@@ -65,8 +65,8 @@ MA Septienna	Death Ripple	Necromancy, Earth Magic		Death Ripple
 MA Aislinn	Meteor Shower	Necromancy, Wisdom		Meteor Shower
 MA Vidomina	Necromancy	Necromancy, Fire Magic		Curse
 
-MG Spells 1	...
-MG Spells 2	...
+MG Spells 1	Magic Arrow
+MG Spells 2	Summon Boat
 MG Spells 3	...
 
 PR Dace		Minotaurs	Tactics, Offense		Sorrow
@@ -82,7 +82,7 @@ MA Terek	Haste		Wisdom, Tactics			Haste
 MA Dessa	Logistics	Wisdom, Logistics		Stone Skin
 MA Zubin	Precision	Wisdom, Air Magic		Precision
 
-MG Spells 1	...
+MG Spells 1	Magic Arrow, Summon Boat
 MG Spells 2	...
 MG Spells 3	...
 
@@ -99,8 +99,8 @@ MA Adrienne	Fire Magic	Wisdom, Fire Magic		Magic Arrow, Bloodlust, Curse, Fire W
 MA Mirlanda	Weakness	Wisdom, Water Magic		Weakness
 MA Merist	Stone Skin	Wisdom, Earth Magic		Stone Skin
 
-MG Spells 1	...
-MG Spells 2	...
+MG Spells 1	Magic Arrow
+MG Spells 2	Summon Boat
 MG Spells 3	...
 
 PR Tark		Nix		Offense, Armorer		Shield
