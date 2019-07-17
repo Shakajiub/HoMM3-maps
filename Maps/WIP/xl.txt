@@ -1,10 +1,10 @@
-Town/Hero	Specialty	Skills				Spell			Artifact		Other
+Town/Hero	Specialty	Skills				Spell			Artifact
 
 
 Castle
 MI Christian	Ballista	Leadership, Artillery					Ballista
 MI Sylvia	Navigation	Leadership, Navigation
-MI Lord Haart	Estates		Leadership, Estates, Necromancy				Dead Man's Boots
+MI Lord Haart	Estates		Leadership, Estates
 MI Beatrice	Scouting	Leadership, Scouting
 MA Adelaide	Frost Ring	Wisdom, Water Magic		Frost Ring
 MA Loynis	Prayer		Wisdom, Water Magic		Prayer
@@ -14,6 +14,7 @@ MA Ingham	Monks		Wisdom, Air Magic		Lightning Bolt
 MG Spells 1	Magic Arrow
 MG Spells 2	Summon Boat, Animate Dead
 MG Spells 3	...
+Shrine Spel     ...
 
 PR Ryland	Dendroids	Archery, Logistics		Slow
 PR Edric	Griffins	Leadership, Armorer		Counterstrike
@@ -21,7 +22,7 @@ PR Dargem	Air Shield	Wisdom, Scholar			Air Shield
 
 
 Tower
-MI Torosar	Ballista	Wisdom, Artillery		Magic Arrow		Ballista
+MI Torosar	Ballista	Wisdom, Artillery		Lightning Bolt		Ballista
 MI Neela	Armorer		Wisdom, Armorer			Shield
 MI Piquedram	Gargoyles	Wisdom, Tactics			Stone Skin
 MI Iona		Genies		Wisdom, Offense			Dispel
@@ -33,9 +34,10 @@ MA Dracon	Enchanters	Wisdom, Water Magic		Bless
 MG Spells 1	Magic Arrow, Summon Boat
 MG Spells 2	...
 MG Spells 3	...
+Shrine Spel     ...
 
+PR Coronius	Slayer		Wisdom, Scholar         	Slayer
 PR Lorelei	Harpies		Tactics, Scouting		Disrupting Ray
-PR Coronius	Slayer		Wisdom, Scholar, Tactics	Slayer						-1 Defense, +1 Spell Power
 
 
 Inferno
@@ -45,20 +47,21 @@ MI Octavia	Gold		Tactics, Estates
 MI Xeron	Devils		Tactics, Offense
 MA Ash		Bloodlust	Wisdom, Fire Magic		Bloodlust
 MA Xarfax	Fireball	Wisdom, Fire Magic		Fireball
-MA Zydar	Sorcery		Wisdom, Sorcery			Magic Arrow
+MA Zydar	Sorcery		Wisdom, Sorcery			Lightning Bolt
 MA Olema	Weakness	Wisdom, Water Magic		Weakness
 
 MG Spells 1	Magic Arrow, Summon Boat
 MG Spells 2	...
 MG Spells 3	...
+Shrine Spel     ...
 
-PR Ignissa	Fire Elem.	Offense, Fire Magic		Magic Arrow, Curse, Blind
+PR Ignissa	Fire Elem.	Offense, Fire Magic		Fire Elemental
 
 
 Necropolis
 MI Ranloo	Ballista	Necromancy, Artillery		Haste			Ballista
 MI Galthran	Skeletons	Necromancy, Armorer		Shield
-MI Isra		Necromancy	Necromancy, Offense		Magic Arrow
+MI Isra		Necromancy	Necromancy, Offense		Lightning Bolt
 MI Clavius	Gold		Necromancy, Tactics		Stone Skin
 MA Thant	Animate Dead	Necromancy, Earth Magic		Animate Dead
 MA Septienna	Death Ripple	Necromancy, Earth Magic		Death Ripple
@@ -68,8 +71,10 @@ MA Vidomina	Necromancy	Necromancy, Fire Magic		Curse
 MG Spells 1	Magic Arrow
 MG Spells 2	Summon Boat
 MG Spells 3	...
+Shrine Spel     ...
 
 PR Dace		Minotaurs	Tactics, Offense		Sorrow
+PR Haart Lich   Death Knights   Necromancy, Estates             Slow
 
 
 Stronghold
@@ -85,6 +90,7 @@ MA Zubin	Precision	Wisdom, Air Magic		Precision
 MG Spells 1	Magic Arrow, Summon Boat
 MG Spells 2	...
 MG Spells 3	...
+Shrine Spel     ...
 
 PR Illor	Stormbirds	Tactics, Armorer		Bloodlust
 
@@ -102,12 +108,14 @@ MA Merist	Stone Skin	Wisdom, Earth Magic		Stone Skin
 MG Spells 1	Magic Arrow
 MG Spells 2	Summon Boat
 MG Spells 3	...
+Shrine Spel     ...
 
 PR Tark		Nix		Offense, Armorer		Shield
 
 
 PR Voy		Navigation	Wisdom, Navigation		Summon Boat
 PR Eovacius	Clone		Wisdom, Water Magic		Clone
+PR Casmetra     Sea Witches     Wisdom, Water Magic             Dispel
 PR Thorgrim	Resistance	Armorer, Resistance
 PR Ignatius	Imps		Tactics, Resistance
 PR Xyron	Inferno		Wisdom, Fire Magic		Inferno
@@ -118,12 +126,33 @@ PR Cuthbert	Weakness	Wisdom, Water Magic		Weakness
 
 Creature Banks close-by
 
-Castle		1x Crypt, 1x Black Tower, 4x Griffin Conservatory, 1x Ruins
-Tower		1x Crypt, 1x Black Tower, 4x Experimental Shop
-Inferno		1x Crypt, 1x Black Tower, 2x Red Tower
-Necropolis	1x Crypt, 2x Black Tower, 1x Churchyard, 1x Mansion, 2x Red Tower
-Stronghold	1x Crypt, 1x Black Tower, 5x Wolf Raider Picket, 4x Pirate Cavern
-Fortress	1x Crypt, 1x Black Tower, 5x Dragon Fly Hive, 1x Spit
+Everyone        1x Dragon Utopia, 1x Crypt, 1x Black Tower, 1x Cyclops Stockpile, 1x Shipwreck
+Castle		1x Naga Bank, 4x Griffin Conservatory, 1x Ruins
+Tower		1x Naga Bank, 4x Experimental Shop,    1x Ruins
+Inferno		3x Imp Cache, 2x Red Tower, 1x Churchyard, 1x Mansion
+Necropolis	3x Imp Cache, 2x Red Tower, 1x Churchyard, 1x Mansion
+Stronghold	2x Dwarven Treasury, 5x Wolf Raider Picket, 4x Pirate Cavern
+Fortress	2x Medusa Stores,    5x Dragon Fly Hive,    1x Spit
+
+
+Witch Huts
+
+Castle
+Tower
+Inferno
+Necropolis      Necromancy
+Stronghold
+Fortress
+
+
+Seer's Hut Secondary Skills
+
+Castle
+Tower
+Inferno
+Necropolis
+Stronghold      Water Magic
+Fortress
 
 
 Notes/Ideas
@@ -131,5 +160,4 @@ Notes/Ideas
 - Prison Heroes that carry the Grail.
 - Use Vey portrait.
 - Limited Spells.
-- Sea Witches.
 
