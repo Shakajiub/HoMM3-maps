@@ -1,7 +1,5 @@
 # HoMM3-maps
-My maps for Heroes of Might and Magic III - Horn of the Abyss (1.5.4).
-
-![Stitch in Time](Screenshot/Stitch_in_Time-3.png?raw=true "Stitch in Time")
+My maps for Heroes of Might and Magic III - Horn of the Abyss (1.5.4). None of these maps are really publically released yet, but feel free to try them if you're interested. I would recommend not playing any of the maps found in the WIP directory though, even though some might look finished.
 
 ## Map descriptions
 
