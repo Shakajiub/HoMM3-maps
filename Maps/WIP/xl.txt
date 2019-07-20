@@ -60,18 +60,18 @@ PR Ignissa	Fire Elem.	Offense, Fire Magic		Fire Elemental
 
 Necropolis
 MI Ranloo	Ballista	Necromancy, Artillery		Haste			Ballista
-MI Galthran	Skeletons	Necromancy, Armorer		Shield
-MI Isra		Necromancy	Necromancy, Offense		Lightning Bolt
+MI Galthran	Skeletons	Necromancy, Tactics		Shield
+MI Isra		Necromancy	Necromancy, Tactics		Lightning Bolt
 MI Clavius	Gold		Necromancy, Tactics		Stone Skin
 MA Thant	Animate Dead	Necromancy, Earth Magic		Animate Dead
 MA Septienna	Death Ripple	Necromancy, Earth Magic		Death Ripple
-MA Aislinn	Meteor Shower	Necromancy, Wisdom		Meteor Shower
-MA Vidomina	Necromancy	Necromancy, Fire Magic		Curse
+MA Aislinn	Meteor Shower	Necromancy, Earth Magic		Meteor Shower
+MA Vidomina	Necromancy	Necromancy, Earth Magic		Force Field
 
 MG Spells 1	Magic Arrow
 MG Spells 2	Summon Boat
 MG Spells 3	...
-Shrine Spel     ...
+Shrine Spel     Bloodlust, Weakness, ...
 
 PR Dace		Minotaurs	Tactics, Offense		Sorrow
 PR Haart Lich   Death Knights   Necromancy, Estates             Slow
@@ -79,13 +79,13 @@ PR Haart Lich   Death Knights   Necromancy, Estates             Slow
 
 Stronghold
 MI Gurnisson	Ballista	Offense, Artillery					Ballista
-MI Crag Hack	Offense		Offense, Tactics
+MI Crag Hack	Offense		Offense, Logistics
 MI Tyraxor	Wolf Riders	Offense, Logistics
-MI Kilgor	Behemoths	Offense, Armorer
-MA Gundula	Offense		Wisdom, Offense			Slow
-MA Terek	Haste		Wisdom, Tactics			Haste
-MA Dessa	Logistics	Wisdom, Logistics		Stone Skin
-MA Zubin	Precision	Wisdom, Air Magic		Precision
+MI Kilgor	Behemoths	Offense, Logistics
+MA Gundula	Offense		Wisdom, Offense			Lightning Bolt
+MA Terek	Haste		Wisdom, Offense			Haste
+MA Zubin	Precision	Wisdom, Offense 		Precision
+MA Dessa	Logistics	Wisdom, Logistics		Disrupting Ray
 
 MG Spells 1	Magic Arrow, Summon Boat
 MG Spells 2	...
@@ -140,9 +140,11 @@ Witch Huts
 Castle
 Tower
 Inferno
-Necropolis      Necromancy
+Necropolis      Necromancy, First Aid, Logistics
 Stronghold
 Fortress
+
+Cyan TP         Air Magic, Water Magic, Sorcery, Intelligence, Mysticism
 
 
 Seer's Hut Secondary Skills
