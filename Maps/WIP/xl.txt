@@ -60,13 +60,13 @@ PR Ignissa	Fire Elem.	Offense, Fire Magic		Fire Elemental
 
 Necropolis
 MI Ranloo	Ballista	Necromancy, Artillery		Haste			Ballista
-MI Galthran	Skeletons	Necromancy, Tactics		Shield
+MI Galthran	Skeletons	Necromancy, Offense		Shield
 MI Isra		Necromancy	Necromancy, Tactics		Lightning Bolt
-MI Clavius	Gold		Necromancy, Tactics		Stone Skin
+MI Clavius	Gold		Necromancy, Estates		Stone Skin
 MA Thant	Animate Dead	Necromancy, Earth Magic		Animate Dead
 MA Septienna	Death Ripple	Necromancy, Earth Magic		Death Ripple
-MA Aislinn	Meteor Shower	Necromancy, Earth Magic		Meteor Shower
 MA Vidomina	Necromancy	Necromancy, Earth Magic		Force Field
+MA Sandro	Sorcery		Necromancy, Sorcery		Slow
 
 MG Spells 1	Magic Arrow
 MG Spells 2	Summon Boat
@@ -79,12 +79,12 @@ PR Haart Lich   Death Knights   Necromancy, Estates             Slow
 
 Stronghold
 MI Gurnisson	Ballista	Offense, Artillery					Ballista
-MI Crag Hack	Offense		Offense, Logistics
+MI Crag Hack	Offense		Offense, Tactics
 MI Tyraxor	Wolf Riders	Offense, Logistics
-MI Kilgor	Behemoths	Offense, Logistics
+MI Kilgor	Behemoths	Offense, Armorer
 MA Gundula	Offense		Wisdom, Offense			Lightning Bolt
-MA Terek	Haste		Wisdom, Offense			Haste
-MA Zubin	Precision	Wisdom, Offense 		Precision
+MA Terek	Haste		Wisdom, Air Magic		Haste
+MA Gird		Sorcery		Wisdom, Sorcery			Chain Lightning
 MA Dessa	Logistics	Wisdom, Logistics		Disrupting Ray
 
 MG Spells 1	Magic Arrow, Summon Boat
@@ -142,18 +142,6 @@ Tower
 Inferno
 Necropolis      Necromancy, First Aid, Logistics
 Stronghold
-Fortress
-
-Cyan TP         Air Magic, Water Magic, Sorcery, Intelligence, Mysticism
-
-
-Seer's Hut Secondary Skills
-
-Castle
-Tower
-Inferno
-Necropolis
-Stronghold      Water Magic
 Fortress
 
 
