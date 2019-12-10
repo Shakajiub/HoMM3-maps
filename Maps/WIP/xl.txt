@@ -4,15 +4,15 @@ Town/Hero	Specialty	Skills				Spell			Artifact
 Castle
 MI Christian	Ballista	Leadership, Artillery					Ballista
 MI Sylvia	Navigation	Leadership, Navigation
-MI Lord Haart	Estates		Leadership, Estates
 MI Beatrice	Scouting	Leadership, Scouting
+MI Lord Haart	Estates		Necromancy, Estates
 MA Adelaide	Frost Ring	Wisdom, Water Magic		Frost Ring
 MA Loynis	Prayer		Wisdom, Water Magic		Prayer
 MA Caitlin	Gold		Wisdom, Intelligence		Cure
 MA Ingham	Monks		Wisdom, Air Magic		Lightning Bolt
 
 MG Spells 1	Magic Arrow
-MG Spells 2	Summon Boat, Animate Dead
+MG Spells 2	Summon Boat, Animate Dead, Destroy Undead
 MG Spells 3	...
 Shrine Spel     ...
 
@@ -124,7 +124,17 @@ PR Adela	Bless		Wisdom, Water Magic		Bless
 PR Cuthbert	Weakness	Wisdom, Water Magic		Weakness
 
 
-Creature Banks close-by
+Creature Dwellings
+
+Castle		2x Griffins, 1x Monks, 1x Angels, 1x Elves, 1x Dendroids, 4x Peasants
+Tower		1x Gargoyles, 2x Genies, 1x Giants, 1x Harpies, 2x Enchanters
+Inferno		2x Gogs, 3x Demons, 1x Devils, 3x Fire Elementals
+Necropolis	1x Bone Dragons, 2x Minotaurs, 3x Mummies, 1x Rust Dragons, 3x Peasants
+Stronghold	1x Wolf Riders, 1x Behemoths, 4x Stormbirds
+Fortress	1x Gnolls, 2x Lizardmen, 1x Hydras, 2x Fangarms, 2x Nixes
+
+
+Creature Banks
 
 Everyone        1x Dragon Utopia, 1x Crypt, 1x Black Tower, 1x Cyclops Stockpile, 1x Shipwreck
 Castle		1x Naga Bank, 4x Griffin Conservatory, 1x Ruins
@@ -133,16 +143,6 @@ Inferno		3x Imp Cache, 2x Red Tower, 1x Churchyard, 1x Mansion
 Necropolis	3x Imp Cache, 2x Red Tower, 1x Churchyard, 1x Mansion
 Stronghold	2x Dwarven Treasury, 5x Wolf Raider Picket, 4x Pirate Cavern
 Fortress	2x Medusa Stores,    5x Dragon Fly Hive,    1x Spit
-
-
-Witch Huts
-
-Castle
-Tower
-Inferno
-Necropolis      Necromancy, First Aid, Logistics
-Stronghold
-Fortress
 
 
 Notes/Ideas
