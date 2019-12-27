@@ -18,7 +18,6 @@ Shrine Spel     ...
 
 PR Ryland	Dendroids	Archery, Logistics		Slow
 PR Edric	Griffins	Leadership, Armorer		Counterstrike
-PR Dargem	Air Shield	Wisdom, Scholar			Air Shield
 
 
 Tower
@@ -92,7 +91,7 @@ MG Spells 2	...
 MG Spells 3	...
 Shrine Spel     ...
 
-PR Illor	Stormbirds	Tactics, Armorer		Bloodlust
+PR Illor	Stormbirds	Tactics, Offense		Bloodlust
 
 
 Fortress
@@ -122,11 +121,12 @@ PR Xyron	Inferno		Wisdom, Fire Magic		Inferno
 PR Sir Mullich	Speed		Leadership, Logistics
 PR Adela	Bless		Wisdom, Water Magic		Bless
 PR Cuthbert	Weakness	Wisdom, Water Magic		Weakness
+PR Dargem	Air Shield	Wisdom, Scholar			Air Shield
 
 
 Creature Dwellings
 
-Castle		2x Griffins, 1x Monks, 1x Angels, 1x Elves, 1x Dendroids, 4x Peasants
+Castle		2x Griffins, 1x Monks, 1x Angels, 1x Dendroids, 4x Peasants
 Tower		1x Gargoyles, 2x Genies, 1x Giants, 1x Harpies, 2x Enchanters
 Inferno		2x Gogs, 3x Demons, 1x Devils, 3x Fire Elementals
 Necropolis	1x Bone Dragons, 2x Minotaurs, 3x Mummies, 1x Rust Dragons, 3x Peasants
@@ -148,6 +148,4 @@ Fortress	2x Medusa Stores,    5x Dragon Fly Hive,    1x Spit
 Notes/Ideas
 
 - Prison Heroes that carry the Grail.
-- Use Vey portrait.
-- Limited Spells.
 
