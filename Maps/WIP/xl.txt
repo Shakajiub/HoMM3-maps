@@ -132,16 +132,26 @@ PR Erdamon	Earth Elem.	Tactics, Earth Magic				Earth Elemental
 PR Bidley	Sea Dogs	Navigation, Archery, Offense			Summon Boat, Scuttle Boat
 PR Elmore	Navigation	Navigation, Scouting, Logistics, Pathfinding	Summon Boat, Scuttle Boat
 PR Kyrre	Logistics	Archery, Logistics
+PR Elleshar	Intelligence	Wisdom, Intelligence				Ice Bolt, Prot. From Fire
 
 
 Creature Dwellings
 
 Castle		1x Angels,    1x Swordsmen,   1x Monks,     2x Griffins,   1x Dendroids,       4x Peasants
-Tower		1x Giants,    1x Golems,      2x Genies,    2x Enchanters, 1x Harpies
+Tower		1x Giants,    2x Genies,                    2x Enchanters, 1x Harpies
 Inferno		1x Devils,    2x Gogs,        3x Demons,    3x Fire Elem.
 Necropolis	1x Dragons,   1x Vampires,    3x Mummies,   2x Minotaurs,  1x Rust Dragons,    3x Peasants
 Stronghold	1x Behemoths, 1x Wolf Riders, 1x Cyclops,   3x Stormbirds
 Fortress	1x Hydras,    1x Gnolls,      2x Lizardmen, 2x Nixes,      2x Fangarms
+
+
+Far-away Dwellings
+Castle		...
+Tower		3x Golems
+Inferno		...
+Necropolis	...
+Stronghold	...
+Fortress	...
 
 
 Creature Banks
