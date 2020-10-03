@@ -1,46 +1,46 @@
-Town/Hero	Specialty	Skills				Spell			Artifact
+Town/Hero		Specialty	Skills					Spell			Artifact
 
 
 Castle
 MI Christian	Ballista	Leadership, Artillery					Ballista
-MI Roland	Swordsmen	Leadership, Armorer
-MI Beatrice	Scouting	Leadership, Scouting
+MI Roland		Swordsmen	Leadership, Armorer
+MI Beatrice		Scouting	Leadership, Scouting
 MI Lord Haart	Estates		Necromancy, Estates
-MA Adelaide	Frost Ring	Wisdom, Water Magic		Cure, Frost Ring
-MA Loynis	Prayer		Wisdom, Water Magic		Cure, Prayer
-MA Caitlin	Gold		Wisdom, Intelligence		Cure, Dispel
-MA Ingham	Monks		Wisdom, Air Magic		Cure, Lightning Bolt
+MA Adela		Bless		Wisdom, Water Magic		Cure, Bless
+MA Adelaide		Frost Ring	Wisdom, Water Magic		Cure, Frost Ring
+MA Loynis		Prayer		Wisdom, Water Magic		Cure, Prayer
+MA Ingham		Monks		Wisdom, Air Magic		Cure, Lightning Bolt
 
 MG Spells 1	Magic Arrow
 MG Spells 2	Summon Boat, Animate Dead, Destroy Undead
 MG Spells 3	...
-Shrine Spel     ...
+Shrine Spel ...
 
-PR Gelu		Sharpshooters	Archery, Air Magic		Precision
-PR Ryland	Dendroids	Archery, Logistics		Slow
-PR Edric	Griffins	Leadership, Armorer		Counterstrike
-PR Malekith	Sorcery		Wisdom, Sorcery, Fire Magic	Fireball
+PR Gelu			Sharpshoot.	Leadership, Archery		Precision
+PR Corkes		Offense		Leadership, Offense		Scuttle Boat
+PR Edric		Griffins	Leadership, Armorer		Counterstrike
+PR Malekith		Sorcery		Wisdom, Sorcery			Fireball
 
 
 Tower
-MI Torosar	Ballista	Wisdom, Artillery		Magic Arrow, Precision		Ballista
-MI Neela	Armorer		Wisdom, Armorer			Magic Arrow, Shield
-MI Josephine	Golems		Wisdom, Tactics			Magic Arrow, Stone Skin
-MI Iona		Genies		Wisdom, Offense			Magic Arrow, Dispel
-MA Solmyr	Chain Light.	Wisdom, Air Magic		Magic Arrow, Chain Lightning
-MA Cyra		Haste		Wisdom, Air Magic		Magic Arrow, Haste
-MA Aine		Gold		Wisdom, Intelligence		Magic Arrow, Cure
-MA Halon	Mysticism	Wisdom, Mysticism		Magic Arrow, Frost Ring
+MI Torosar		Ballista	Wisdom, Artillery		Magic Arrow, Precision		Ballista
+MI Neela		Armorer		Wisdom, Armorer			Magic Arrow, Shield
+MI Rissa		Mercury		Wisdom, Scholar			Magic Arrow, Bless
+MI Iona			Genies		Wisdom, Offense			Magic Arrow, Dispel
+MA Solmyr		Chain Lig.	Wisdom, Air Magic		Magic Arrow, Chain Lightning
+MA Cyra			Haste		Wisdom, Air Magic		Magic Arrow, Haste
+MA Aine			Gold		Wisdom, Estates			Magic Arrow, Cure
+MA Halon		Mysticism	Wisdom, Mysticism		Magic Arrow, Frost Ring
 
 MG Spells 1	Summon Boat
 MG Spells 2	...
 MG Spells 3	...
-Shrine Spel     ...
+Shrine Spel ...
 
-PR Coronius	Slayer		Wisdom, Scholar, Fire Magic    			Slayer
-PR Spint	Sorcery		Navigation, Wisdom, Sorcery, Water Magic	Ice Bolt
-PR Lorelei	Harpies		Tactics, Scouting				Disrupting Ray
-PR Dracon	Enchanters	All Magic Schools				Haste, Bless, Stone Skin, Cure, Bloodlust, Air Shield, Slow, Weakness
+PR Coronius		Slayer		Wisdom, Fire Magic  	Slayer
+PR Spint		Sorcery		Navigation, Sorcery		Ice Bolt
+PR Dracon		Enchanters	All Magic Schools		Enchanter spells
+PR Gunnar		Logistics	Logistics, Tactics
 
 
 Inferno
@@ -56,54 +56,54 @@ MA Zydar	Sorcery		Wisdom, Sorcery			Curse, Lightning Bolt
 MG Spells 1	Magic Arrow, Summon Boat
 MG Spells 2	...
 MG Spells 3	...
-Shrine Spel     ...
+Shrine Spel ...
 
 PR Xeron	Devils		Tactics, Offense		Berserk
 PR Ignissa	Fire Elem.	Offense, Fire Magic		Fire Elemental
 PR Luna		Fire Wall	Wisdom, Fire Magic		Fire Wall
-PR Jeddite	Resurrection	Wisdom, Scholar, Earth		Resurrection, Force Field
+PR Jeddite	Resurrect.	Wisdom, Earth Magic		Resurrection, Force Field
 
 
 Necropolis
-MI Ranloo	Ballista	Necromancy, Artillery		Shield			Ballista
-MI Galthran	Skeletons	Necromancy, Offense		Shield
-MI Isra		Necromancy	Necromancy, Tactics		Shield
-MI Clavius	Gold		Necromancy, Estates		Shield
-MA Thant	Animate Dead	Necromancy, Earth Magic		Shield, Animate Dead
-MA Septienna	Death Ripple	Necromancy, Earth Magic		Shield, Death Ripple
-MA Vidomina	Necromancy	Necromancy, Fire Magic		Shield, Curse
-MA Sandro	Sorcery		Necromancy, Sorcery		Shield, Lightning Bolt
+MI Ranloo		Ballista	Necromancy, Artillery	Shield			Ballista
+MI Galthran		Skeletons	Necromancy, Offense		Shield
+MI Isra			Necromancy	Necromancy, Tactics		Shield
+MI Clavius		Gold		Necromancy, Estates		Shield
+MA Thant		Animate De.	Necromancy, Earth Magic	Shield, Animate Dead
+MA Septienna	Death Ripp.	Necromancy, Earth Magic	Shield, Death Ripple
+MA Vidomina		Necromancy	Necromancy, Fire Magic	Shield, Curse
+MA Sandro		Sorcery		Necromancy, Sorcery		Shield, Lightning Bolt
 
 MG Spells 1	Magic Arrow
 MG Spells 2	Summon Boat
 MG Spells 3	...
-Shrine Spel     Bloodlust, Weakness, ...
+Shrine Spel Bloodlust, Weakness, ...
 
-PR Dace		Minotaurs	Tactics, Offense				Sorrow
-PR Haart Lich   Death Knights   Necromancy, Estates             		Shield, Slow
-PR Miriam	Scouting	Navigation, Scouting, Logistics, Pathfinding	Summon Boat, Scuttle Boat
-PR Jaegar	Mysticism	Wisdom, Mysticism, Scholar			Meteor Shower
+PR Dace			Minotaurs		Tactics, Offense								Sorrow
+PR Haart Lich	Black Knights	Necromancy, Tactics								Shield, Slow
+PR Miriam		Scouting		Navigation, Scouting, Logistics, Pathfinding	Summon Boat, Scuttle Boat
+PR Jaegar		Mysticism		Wisdom, Mysticism								Meteor Shower
 
 
 Stronghold
 MI Gurnisson	Ballista	Offense, Artillery					Ballista
 MI Crag Hack	Offense		Offense, Tactics
-MI Tyraxor	Wolf Riders	Offense, Logistics
-MI Yog		Cyclops		Offense, Resistance
-MA Gundula	Offense		Wisdom, Offense			Bloodlust, Lightning Bolt
-MA Terek	Haste		Wisdom, Air Magic		Bloodlust, Haste
-MA Dessa	Logistics	Wisdom, Logistics		Bloodlust, Disrupting Ray
-MA Gird		Sorcery		Wisdom, Sorcery			Bloodlust, Chain Lightning
+MI Tyraxor		Wolf Riders	Offense, Logistics
+MI Yog			Cyclops		Offense, Resistance
+MA Gundula		Offense		Wisdom, Offense			Bloodlust, Lightning Bolt
+MA Terek		Haste		Wisdom, Air Magic		Bloodlust, Haste
+MA Dessa		Logistics	Wisdom, Logistics		Bloodlust, Disrupting Ray
+MA Gird			Sorcery		Wisdom, Sorcery			Bloodlust, Chain Lightning
 
 MG Spells 1	Magic Arrow, Summon Boat
 MG Spells 2	...
 MG Spells 3	...
-Shrine Spel     ...
+Shrine Spel ...
 
-PR Illor	Stormbirds	Navigation, Tactics, Offense	Bloodlust
-PR Thorgrim	Resistance	Resistance, Interference	Magic Mirror
-PR Alamar	Resurrection	Wisdom, Scholar, Earth		Resurrection
-PR Grindan	Gold		Wisdom, Earth, Tactics, Estates	Bless
+PR Illor	Stormbirds	Navigation, Tactics		Bloodlust
+PR Thorgrim	Resistance	Resistance, Offense		Anti-Magic
+PR Alamar	Resurrect.	Wisdom, Earth Magic		Resurrection
+PR Grindan	Gold		Wisdom, Estates			Bless
 
 
 Fortress
@@ -119,43 +119,44 @@ MA Styg		Sorcery		Wisdom, Sorcery			Slow, Lightning Bolt
 MG Spells 1	Magic Arrow
 MG Spells 2	Summon Boat
 MG Spells 3	...
-Shrine Spel     ...
+Shrine Spel ...
 
-PR Eovacius	Clone		Navigation, Wisdom, Scholar	Clone
-PR Tark		Nix		Navigation, Armorer, Resistance	Shield
-PR Damacon	Gold		Tactics, Estates		Curse
-PR Giselle	Interference	Interference, Resistance	Magic Mirror
+PR Eovacius	Clone			Navigation, Wisdom		Clone
+PR Tark		Nix				Navigation, Resistance	Shield
+PR Damacon	Gold			Tactics, Estates		Curse
+PR Giselle	Interference	Interference, Armorer	Anti-Magic
 
 
 Neutral
-PR Erdamon	Earth Elem.	Tactics, Earth Magic				Earth Elemental
-PR Bidley	Sea Dogs	Navigation, Archery, Offense			Summon Boat, Scuttle Boat
-PR Elmore	Navigation	Navigation, Scouting, Logistics, Pathfinding	Summon Boat, Scuttle Boat
-PR Kyrre	Logistics	Archery, Logistics
-PR Elleshar	Intelligence	Wisdom, Intelligence				Ice Bolt, Prot. From Fire
+PR Erdamon	Earth Elem.		Tactics, Earth Magic	Earth Elemental
+PR Bidley	Sea Dogs		Navigation, Archery		Summon Boat, Scuttle Boat
+PR Elmore	Navigation		Navigation, Scouting	Summon Boat, Scuttle Boat
+PR Manfred	Fireball		Wisdom, Fire Magic		Fireball
+PR Kyrre	Logistics		Archery, Logistics		Haste
+PR Elleshar	Intelligence	Wisdom, Intelligence	Ice Bolt, Prot. From Fire
 
 
 Creature Dwellings
 
-Castle		1x Angels,    1x Swordsmen,   1x Monks,     2x Griffins,   1x Dendroids,       4x Peasants
-Tower		1x Giants,    2x Genies,                    2x Enchanters, 1x Harpies
-Inferno		1x Devils,    2x Gogs,        3x Demons,    3x Fire Elem.
-Necropolis	1x Dragons,   1x Vampires,    3x Mummies,   2x Minotaurs,  1x Rust Dragons,    3x Peasants
-Stronghold	1x Behemoths, 1x Wolf Riders, 1x Cyclops,   3x Stormbirds
-Fortress	1x Hydras,    1x Gnolls,      2x Lizardmen, 2x Nixes,      2x Fangarms
+Castle		1x Angels,    1x Swordsmen,   1x Monks,     2x Griffins,   1x Faerie Dragons,  4x Peasants
+Tower		1x Giants,    2x Genies,                                   1x Azure Dragons,   2x Enchanters
+Inferno		1x Devils,    2x Gogs,        1x Demons,                                       3x Fire Elem.
+Necropolis	1x Dragons,   1x Vampires,                                 1x Rust Dragons,    2x Minotaurs, 3x Peasants, 1x Rogues
+Stronghold	1x Behemoths, 1x Wolf Riders, 1x Cyclops,                  1x Crystal Dragons, 3x Stormbirds
+Fortress	1x Hydras,    2x Lizardmen,                                                    2x Nixes,     2x Fangarms
 
 
 Far-away Dwellings
-Castle		...
-Tower		3x Golems
-Inferno		...
-Necropolis	...
-Stronghold	...
-Fortress	...
+Castle		1x Sharpshooters (+2 unflagged)
+Tower		1x Nagas (3 Titans garrison)
+Inferno		2x Demons
+Necropolis	1x Mummies (+2 unflagged)
+Stronghold	2x Rocs
+Fortress	2x Gorgons
 
 
 Creature Banks
-Everyone        1x Dragon Utopia, 1x Crypt, 1x Black Tower, 1x Cyclops Stockpile, 1x Shipwreck
+Everyone    1x Dragon Utopia, 1x Crypt, 1x Black Tower, 1x Cyclops Stockpile, 1x Shipwreck
 
 Castle		1x Naga Bank (12),        4x Griffin Conservatory (10), 1x Ruins (2k)
 Tower		1x Naga Bank (12),        4x Experimental Shop (10),    1x Ruins (2k)
