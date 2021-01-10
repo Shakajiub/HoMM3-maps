@@ -1,0 +1,2900 @@
+===== Map name =====
+Element Land
+
+===== Map description =====
+All kingdoms turn to war when a malevolent wizard appears and tries to bring them under his control. Defeat Evil Wizard and his pet dragon to restore peace and save the world!		Fly, townportal, DD and blind not found in mage guilds.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+CPU 0
+Message:
+
+
+Name:
+CPU 1
+Message:
+
+
+Name:
+CPU 2
+Message:
+
+
+Name:
+Purple story 1
+Message:
+You are Evil Wizard, the most evil person in all of the world and now you have come to this new land to make yourself its one true master. You have devised a cunning plan to capture and mind control all of the kings and queens of the most powerful kingdoms, bending them to your will. They all now stand before you enslaved by dark magic. 
+
+Name:
+Purple story 2
+Message:
+Disaster! Your evil magic has failed to work on all of them! Only the purple empire has fallen under your control, To make matters worse, casting such powerful dark magic has left you in a weakened state and these blasted angels are everywhere attacking your minions. You decide to head back into your secret underground lair and wait for your power to recharge.
+
+Name:
+Story time 1
+Message:
+"I bring word from the other kingdoms my lord. Thier leaders were not able to escape in time before the wizard cast a spell on them, turning them all mad with bloodlust rage! They have all declared war apon us! We must ready our garrions for incoming invasions.  Many of our legendary heroes are out adventuring, we must find them before they are also poisoned against us."
+
+Name:
+Purple story 3
+Message:
+Those dam angels are ruining everything! How dare they ransack your secret underground lair! Time for some payback, the old fashioned way. Let's see how they look with their heads on some spikes. No mercy, every other kingdom will bow before the purple empire and its new glorious leader!
+
+Name:
+Story time 2
+Message:
+"My lord, our scouts send word that Evil Wizard has retreated to a secret underground hideout. We should track down and kill him before he can draw more power and return to finish us off. We believe his lifeforce is linked with the purple empire, capturing all their castles may also destroy him."
+
+Name:
+Storytime 3
+Message:
+You inquire about the location of Evil Wizard's hide out from your local seer. The seer begins speaking in riddles and getting very cryptic and vague. 		"Follow the pegasus through the underground river to find that which you seek."
+
+Name:
+Blue door
+Message:
+
+
+Name:
+Story time 4
+Message:
+"My lord, our spies report a great deal of movement within the purple empire, we believe their heroes are searching for the key master tents. If this Evil Wizard was able to get his hands on the secret powers stored within those tents... We must destroy all purple heroes we encounter and make haste in vanquishing Evil Wizard from the land before it is too late!"
+
+Name:
+Rich uncle money bags
+Message:
+The smallfolk gather what they can to help your campaign.
+
+Name:
+Purple resources
+Message:
+Inspired by the smallfolk's donations, you have the mind slaves empty their personal stores straight into the kingdom treasury.
+
+Name:
+Story time 5
+Message:
+You hear rumors that Evil Wizard is particularly fond of magical dragons and that he has over a thousand of them in his own personal army. The amount of magical firepower they could unleash would be devastating... You will need to build a strong army before confronting him.
+
+Name:
+Money bags human2
+Message:
+The smallfolk gather what they can to help your campaign.
+
+Name:
+Blue door 2
+Message:
+
+
+Name:
+Life and death
+Message:
+A monk passing through the castle inquires about any life and death pendants you may have come across in your adventures, he says that a good 20 or so were stolen from his underground temple a few years ago. The temple is now offering one hundred dragons for each pendant returned to them. You make a note to keep an eye out for any such artifacts.
+
+Name:
+Purple wood
+Message:
+
+
+Name:
+Warning
+Message:
+Your seer comes to you sobbing, he says he's had a terrible vision of a monstrous army lead by Evil Wizard teleporting across the world destroying all in its path. He thinks the vision could come true within a month... 		You hope your armies and heroes are powerful enough to take on Evil Wizard, its about time he was dealt with once and for all!  Scouts report the entrance to his lair is marked by pegasus in the underground rivers. 
+
+Name:
+Evil Wizard's return
+Message:
+Today is the day the seer said Evil Wizard would return to full power, hopefully he is long dead...
+
+Name:
+Purple door
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(138, 123, 0) ***Seer's Hut***
+Message:
+Greetings, I am a renowned scholar in the pursuit of science. If you could bring 100 Halflings to me, I could try using my new growth potion on them.
+No luck in finding the 100 Halflings?  Please hurry, the science must continue!
+At last, the 100 Halflings that I require... What is this!? My potion has made them far to big! Take them away I have no more use for them!
+
+(130, 106, 0) ***Halfling***
+Message:
+"Help us please! Our cows have become posesed by some ill magic and have gone completely berserk."
+
+(129, 105, 0) ***Mighty Gorgon***
+Message:
+"MOOOoooOOOoo!!!"
+
+(123, 101, 0) ***Seer's Hut***
+Message:
+HORSES FOR SALE!!! 		50 for 40000 Gold	***LIMITED TIME SPECIAL DEAL***	100 for 79999 Gold
+That will be 79999 Gold, come on now, cough up.
+Finally!  Here, give the 79999 Gold to me, and I'll give you the horses, buyers remorse guaranteed.
+
+(142, 118, 0) ***Pandora's Box***
+Message:
+
+
+(117, 212, 0) ***Sign***
+Message:
+Global Warming Island
+
+(119, 133, 0) ***Seer's Hut***
+Message:
+When I was a young adventurer, it took me years to reach level 4, maybe one day you'll also make it and I'll pass down my great axe to you.
+
+(189, 56, 0) ***Gold Dragon***
+Message:
+"I AM THE DRAGON KING!!! COWER BEFORE MY POWER!!!!"
+
+(55, 59, 0) ***Pandora's Box***
+Message:
+
+
+(58, 57, 0) ***Pandora's Box***
+Message:
+
+
+(63, 59, 0) ***Pandora's Box***
+Message:
+
+
+(57, 67, 0) ***Pandora's Box***
+Message:
+
+
+(62, 68, 0) ***Pandora's Box***
+Message:
+
+
+(65, 87, 0) ***Ancient Behemoth***
+Message:
+"Thank you for bringing us more flesh bags to eat!"
+
+(101, 224, 0) ***Pandora's Box***
+Message:
+
+
+(107, 245, 0) ***Pandora's Box***
+Message:
+
+
+(117, 250, 0) ***Pandora's Box***
+Message:
+
+
+(119, 249, 0) ***Pandora's Box***
+Message:
+
+
+(251, 174, 0) ***Sign***
+Message:
+Donut island
+
+(131, 236, 0) ***Pandora's Box***
+Message:
+Team 7 assemble!
+
+(0, 175, 0) ***Pandora's Box***
+Message:
+
+
+(179, 200, 0) ***Sign***
+Message:
+KEEP OUT.
+
+(125, 30, 0) ***Pandora's Box***
+Message:
+
+
+(125, 34, 0) ***Pandora's Box***
+Message:
+
+
+(131, 27, 0) ***Pandora's Box***
+Message:
+
+
+(227, 26, 0) ***Conflux***
+Name:
+Fire City
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(171, 38, 0) ***Conflux***
+Name:
+Water City
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(195, 72, 0) ***Conflux***
+Name:
+Earth City
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(136, 36, 0) ***Conflux***
+Name:
+Holy Palace
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+Name:
+Here comes the pain!
+Message:
+
+
+(49, 117, 0) ***Cove***
+Name:
+Water 7
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(61, 138, 0) ***Cove***
+Name:
+Rainbow Coast
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(197, 128, 0) ***Cove***
+Name:
+Deep Sea World
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(203, 106, 0) ***Cove***
+Name:
+Big Blue
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(123, 197, 0) ***Fortress***
+Name:
+Lizard Town
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(139, 186, 0) ***Fortress***
+Name:
+Amazon
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(211, 158, 0) ***Fortress***
+Name:
+Swamp Nest
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(83, 88, 0) ***Stronghold***
+Name:
+Metal Head
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(13, 129, 0) ***Stronghold***
+Name:
+Blood Fortress
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(27, 25, 0) ***Necropolis***
+Name:
+Darkness
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(72, 50, 0) ***Necropolis***
+Name:
+Death Harbour
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(33, 222, 0) ***Tower***
+Name:
+Sky Tower
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(22, 237, 0) ***Tower***
+Name:
+Sand Caster
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(55, 188, 0) ***Tower***
+Name:
+The Factory
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(202, 43, 0) ***Tower***
+Name:
+Winter Palace
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(246, 235, 0) ***Rampart***
+Name:
+Deku Forest
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(242, 209, 0) ***Rampart***
+Name:
+Green Hill
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(131, 127, 0) ***Castle***
+Name:
+High Castle
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(119, 109, 0) ***Castle***
+Name:
+Port Alexander
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(139, 145, 0) ***Castle***
+Name:
+Sand Island
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(149, 212, 0) ***Castle***
+Name:
+Hungry Hat
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(223, 208, 0) ***Imp***
+Message:
+"My... PRECIOUS!!!"
+
+(189, 172, 0) ***Pandora's Box***
+Message:
+
+
+(7, 132, 0) ***Pandora's Box***
+Message:
+
+
+(106, 140, 0) ***Pandora's Box***
+Message:
+
+
+(9, 51, 0) ***Necropolis***
+Name:
+Evil City
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(210, 224, 0) ***Fortress***
+Name:
+Jungle Book
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(113, 73, 0) ***Sign***
+Message:
+Learn to ride today! horse, unicorn or monster! ask inside reception for details.
+
+(94, 109, 0) ***Seer's Hut***
+Message:
+I am the most skilled arsonist on this island, bring me 500 Thunderbirds and I'll set them on fire for you.
+No luck in finding the 500 Thunderbirds?
+At last, the 500 Thunderbirds, ready to see some fire magic?
+
+(174, 111, 0) ***Pandora's Box***
+Message:
+
+
+(138, 78, 0) ***Nix Warrior***
+Message:
+"DIE YOU ATTACK CRAZED HERETICS!!!!!!!! DIE DIE DIE!!!!!!"
+
+(137, 80, 0) ***Sign***
+Message:
+Attack Association and The Federation of Defense peace summit in progress, please do not disturb.
+
+(137, 78, 0) ***Behemoth***
+Message:
+"SHIELD HOLDING ABOMINATIONS!!!!!! BURN IN HELL!!!"
+
+(136, 77, 0) ***Pandora's Box***
+Message:
+
+
+(149, 13, 0) ***Pandora's Box***
+Message:
+This box is marked with the word "Gift".
+
+(151, 13, 0) ***Pandora's Box***
+Message:
+This box is marked with the word "Friend"
+
+(143, 1, 0) ***Pandora's Box***
+Message:
+
+
+(90, 153, 0) ***Seer's Hut***
+Message:
+My pantry has run out of food, give me something to eat would you? I'll pay well.
+Please hurry, I'm starving.
+Thanks, this thing looks tasty. Here is your payment.
+
+(12, 148, 0) ***Pandora's Box***
+Message:
+
+
+(43, 150, 0) ***Pandora's Box***
+Message:
+Cuddly teddy bears inside.
+
+(9, 127, 0) ***Pandora's Box***
+Message:
+
+
+(112, 188, 0) ***Pandora's Box***
+Message:
+
+
+(109, 194, 0) ***Pandora's Box***
+Message:
+
+
+(41, 8, 0) ***Pandora's Box***
+Message:
+
+
+(127, 157, 0) ***Pandora's Box***
+Message:
+
+
+(93, 106, 0) ***Event***
+Message:
+
+
+(31, 9, 0) ***Event***
+Message:
+
+
+(87, 95, 0) ***Event***
+Message:
+
+
+(50, 59, 0) ***Event***
+Message:
+
+
+(14, 91, 0) ***Gnoll Marauder***
+Message:
+"Friend!"
+
+(150, 14, 0) ***Pandora's Box***
+Message:
+This box is marked with the word "Death"
+
+(244, 58, 0) ***Statue of Legion***
+Message:
+You dare try and steal the titan's treasure?
+
+(246, 43, 0) ***Pandora's Box***
+Message:
+
+
+(85, 107, 0) ***Ocean Bottle***
+Message:
+Here there be dragons.
+
+(4, 211, 0) ***Halberdier***
+Message:
+"Friend!"
+
+(118, 77, 0) ***Sign***
+Message:
+Riding School Island
+
+(210, 66, 0) ***Pandora's Box***
+Message:
+
+
+(227, 158, 0) ***Pandora's Box***
+Message:
+
+
+(48, 222, 0) ***Pandora's Box***
+Message:
+
+
+(10, 31, 0) ***Pandora's Box***
+Message:
+
+
+(50, 107, 0) ***Pandora's Box***
+Message:
+
+
+(140, 140, 0) ***Pandora's Box***
+Message:
+
+
+(251, 73, 0) ***Pandora's Box***
+Message:
+DO NOT OPEN, POSSIBLE ONE MILLION AZURE DRAGON AMBUSH.
+
+(35, 136, 0) ***Pandora's Box***
+Message:
+Please open, no danger.
+
+(162, 150, 0) ***Pandora's Box***
+Message:
+
+
+(227, 57, 0) ***Pandora's Box***
+Message:
+
+
+(131, 130, 0) ***Pendant of Life***
+Message:
+While picking up the necklace, you suspect it will be needed for a quest later.
+
+(49, 118, 0) ***Pendant of Life***
+Message:
+While picking up the necklace, you suspect it will be needed for a quest later.
+
+(198, 21, 0) ***Pendant of Death***
+Message:
+While picking up the necklace, you suspect it will be needed for a quest later.
+
+(214, 160, 0) ***Pendant of Life***
+Message:
+While picking up the necklace, you suspect it will be needed for a quest later.
+
+(36, 220, 0) ***Pendant of Life***
+Message:
+While picking up the necklace, you suspect it will be needed for a quest later.
+
+(47, 142, 0) ***Pandora's Box***
+Message:
+
+
+(40, 126, 0) ***Pandora's Box***
+Message:
+
+
+(204, 91, 0) ***Pandora's Box***
+Message:
+
+
+(21, 251, 0) ***Pandora's Box***
+Message:
+
+
+(15, 224, 0) ***Pandora's Box***
+Message:
+
+
+(0, 194, 0) ***Pandora's Box***
+Message:
+
+
+(71, 179, 0) ***Pandora's Box***
+Message:
+
+
+(62, 0, 0) ***Pandora's Box***
+Message:
+
+
+(91, 29, 0) ***Pandora's Box***
+Message:
+
+
+(84, 29, 0) ***Pandora's Box***
+Message:
+
+
+(80, 29, 0) ***Pandora's Box***
+Message:
+
+
+(89, 35, 0) ***Sign***
+Message:
+A "Great Hero" grow up living on this island.
+
+(84, 39, 0) ***Sign***
+Message:
+Treasured belongings of "Great Hero".
+
+(172, 8, 0) ***Prison***
+Name:
+Mr Wood
+
+(184, 75, 0) ***Pandora's Box***
+Message:
+
+
+(245, 107, 0) ***Gold***
+Message:
+Secret stash.
+
+(214, 67, 0) ***Sign***
+Message:
+Treasure buried below.
+
+(214, 68, 0) ***Event***
+Message:
+
+
+(147, 76, 0) ***Pandora's Box***
+Message:
+
+
+(157, 188, 0) ***Sign***
+Message:
+This is a sign post.
+
+(13, 123, 0) ***Event***
+Message:
+Gift.
+
+(13, 130, 0) ***Event***
+Message:
+Dragons feeding on the blood fields want to join your army in search of more blood!
+
+(130, 187, 0) ***Pandora's Box***
+Message:
+
+
+(57, 183, 0) ***Pandora's Box***
+Message:
+Secret box!
+
+(58, 207, 0) ***Peasant***
+Message:
+"You'll never take my family's life savings!"
+
+(36, 34, 0) ***Pandora's Box***
+Message:
+
+
+(25, 22, 0) ***Pandora's Box***
+Message:
+
+
+(30, 8, 0) ***Pandora's Box***
+Message:
+
+
+(48, 27, 0) ***Pandora's Box***
+Message:
+
+
+(58, 62, 0) ***Pandora's Box***
+Message:
+
+
+(83, 64, 0) ***Pandora's Box***
+Message:
+
+
+(221, 109, 0) ***Pandora's Box***
+Message:
+
+
+(128, 71, 0) ***Pandora's Box***
+Message:
+Cute kittens inside, open for lots of cuddles <3.
+
+(95, 75, 0) ***Pandora's Box***
+Message:
+
+
+(51, 67, 0) ***Pandora's Box***
+Message:
+
+
+(56, 236, 0) ***Pandora's Box***
+Message:
+
+
+(57, 185, 0) ***Pandora's Box***
+Message:
+Non secret box.
+
+(50, 76, 0) ***Pandora's Box***
+Message:
+
+
+(188, 98, 0) ***Ocean Bottle***
+Message:
+The night is dark and full of terrors.
+
+(31, 220, 0) ***Pandora's Box***
+Message:
+
+
+(34, 9, 0) ***Pandora's Box***
+Message:
+
+
+(141, 181, 0) ***Seer's Hut***
+Message:
+Trade in your fake dragons today for real ones! Bring me 250 Wyvern Monarchs and I'll help you out.	
+No luck in finding the 250 Wyvern Monarchs?
+At last, the 250 Wyvern Monarchs, are you ready to swap?
+
+(248, 236, 0) ***Seer's Hut***
+Message:
+Greetings traveler, I am a renowned artist, perhaps you could help me express my talents!
+No luck in finding the 5 Gold Dragons?  Please hurry.
+At last, the 5 Gold Dragons! Lets see now.. should I use blue paint?
+
+(142, 248, 0) ***Event***
+Message:
+The purple empire always treated us poorly, we're ready to pledge our swords to you!
+
+(240, 162, 0) ***Pandora's Box***
+Message:
+
+
+(94, 163, 0) ***Dwarf***
+Message:
+"Greetings traveler, I think its destiny that we met here today, please allow me to travel with you on your adventure, I'm sure I'll be useful in the great battles to come."
+
+(95, 163, 0) ***Ocean Bottle***
+Message:
+The handwriting is so poor that you are unable to read the message inside.
+
+(173, 137, 0) ***Pandora's Box***
+Message:
+Congratulations! You are the 1 millionith visitor to our island, please claim your prize!
+
+(238, 168, 0) ***Pandora's Box***
+Message:
+This battle is brought to you by the letter "W".
+
+(209, 154, 0) ***Pandora's Box***
+Message:
+
+
+(139, 248, 0) ***Event***
+Message:
+The orange empire always treated us poorly, we're ready to pledge our swords to you!
+
+(109, 245, 0) ***Pandora's Box***
+Message:
+
+
+(113, 240, 0) ***Pandora's Box***
+Message:
+
+
+(118, 243, 0) ***Pandora's Box***
+Message:
+
+
+(133, 103, 0) ***Event***
+Message:
+The angels in the small lake call out to you.		"We'd like to join your army! We promise not to kill you. We are 100% loyal to the blue empire. There is no reason not to trust us!
+
+(71, 230, 0) ***Pandora's Box***
+Message:
+
+
+(96, 28, 0) ***Pandora's Box***
+Message:
+
+
+(96, 240, 0) ***Pandora's Box***
+Message:
+
+
+(145, 41, 0) ***Prison***
+Name:
+Element King
+
+(240, 27, 0) ***Pandora's Box***
+Message:
+
+
+(179, 60, 0) ***Pandora's Box***
+Message:
+
+
+(211, 15, 0) ***Pandora's Box***
+Message:
+
+
+(23, 65, 0) ***Event***
+Message:
+
+
+(166, 124, 0) ***Event***
+Message:
+"Our ship got smashed up on all these rocks, thank god you came to save us!"
+
+(211, 251, 0) ***Event***
+Message:
+
+
+(80, 109, 0) ***Event***
+Message:
+
+
+(64, 133, 0) ***Sea Dog***
+Message:
+"Aaarrrr, a burried all me treasure on tavern island I did. With all this fightin goin on, may be go and gets it says I."
+
+(37, 111, 0) ***Pandora's Box***
+Message:
+
+
+(101, 130, 0) ***Pandora's Box***
+Message:
+
+
+(31, 24, 0) ***Pendant of Death***
+Message:
+While picking up the necklace, you suspect it will be needed for a quest later.
+
+(31, 28, 0) ***Quest Guard***
+Message:
+Muahaha! I have the only copy of Animate Dead in our whole kingdom, I'll share it with you for 60 Sulfur. And no, you will never find it in your precious magic guilds, bahahaha!
+Since you have not brought 60 Sulfur, the guards forbid you passage.
+Ah, finally the 60 Sulfur. Are you ready to make the trade?
+
+(164, 131, 0) ***Event***
+Message:
+"Sorry pal, but this is the end of the road for you. Nobody has ever met me and lived to tell the tale, today will be no different."
+
+(247, 107, 0) ***Armageddon's Blade***
+Message:
+Wanna die?
+
+(91, 107, 0) ***Sign***
+Message:
+Pyromancer Island
+
+(102, 110, 0) ***Fire Elemental***
+Message:
+"Burn baby burn!"
+
+(138, 63, 0) ***Conflux***
+Name:
+The Twins
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(132, 63, 0) ***Conflux***
+Name:
+The Twins
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(141, 60, 0) ***Event***
+Message:
+As you reach for the gold, power flows through you.
+
+(129, 61, 0) ***Event***
+Message:
+As you reach for the gold, knowledge flows through you.
+
+(151, 60, 0) ***Behemoth***
+Message:
+"You strong! We follow!"
+
+(139, 64, 0) ***Event***
+Message:
+"Secret barbarian raiding party emerge!"
+
+(139, 67, 0) ***Event***
+Message:
+"Freeze, scumbag!"
+
+(131, 67, 0) ***Event***
+Message:
+"Agents of evil will never walk the divine path!"
+
+(128, 58, 0) ***Nix Warrior***
+Message:
+"Blasted mages lock us up here coz we don't know how to do magic, let's go kill um all!"
+
+(163, 61, 0) ***Ocean Bottle***
+Message:
+I dropped my eyeball off this cliff, please bring it back to me if you find this! I live in the quest tower next to the pink two way teleporter!
+
+(158, 61, 0) ***Quest Guard***
+Message:
+God damn it! I dropped my eyeball into the sea, AGAIN. Can you jump in and get it for me? I never learned how to swim despite living on an island my whole life.
+Please, I really need my eyeball back!
+Took you long enough! Give it here!
+
+(147, 63, 0) ***Monk***
+Message:
+"Did I fool you?"
+
+(143, 90, 0) ***Ocean Bottle***
+Message:
+Rare pendants! Get your rare pendants here today for free! All you have to do is dimension door in there and grab um! easy right!?
+
+(119, 4, 0) ***Pandora's Box***
+Message:
+
+
+(117, 3, 0) ***Pandora's Box***
+Message:
+
+
+(240, 251, 0) ***Pandora's Box***
+Message:
+
+
+(108, 97, 0) ***Prison***
+Name:
+SkyMistress
+
+(90, 66, 0) ***Pandora's Box***
+Message:
+
+
+(104, 56, 0) ***Devil***
+Message:
+"In exchange for your soul, we'll join you. Do we have a deal?
+
+(103, 56, 0) ***Ocean Bottle***
+Message:
+Did you know black dragons are stronger than red dragons?		For more useful information visit your local tavern.
+
+(95, 30, 0) ***Pandora's Box***
+Message:
+
+
+(92, 5, 0) ***Prison***
+Name:
+Evil Clone
+
+(95, 4, 0) ***Prison***
+Name:
+Evil Clone
+
+(98, 5, 0) ***Prison***
+Name:
+Evil Clone
+
+(97, 10, 0) ***Dendroid Soldier***
+Message:
+"Wait! We are peaceful tree people, there's no reason for us to fight!"
+
+(96, 10, 0) ***Wood***
+Message:
+You have the troops carve up the tree people's corpses.
+
+(94, 8, 0) ***Archangel***
+Message:
+"The abominations growing here must be purged!"
+
+(98, 9, 0) ***Quest Guard***
+Message:
+A tribe of tree people hide behind a powerful barrier made of wood magic, only the Armageddon's Blade will be strong enough to burn this away.
+Only the Armageddon's Blade can destroy this.
+The Armageddon's Blade's magic will be all used up destroying the barrier, do you wish to proceed?
+
+(96, 7, 0) ***Magic Elemental***
+Message:
+"The clones are almost ready your evilness, but we will require a great deal of matter to complete the gestation, 15,000 wood each should be enough..."
+
+(100, 9, 0) ***Event***
+Message:
+While checking your back pocket for a spare Armageddon's Blade you remember leaving one on the dresser back in the evil underground lair.
+
+(98, 7, 0) ***Quest Guard***
+Message:
+The clone needs 15000 Wood to finish growing...
+You must bring 15000 Wood.
+Are you ready to hatch the clone for 15000 Wood?
+
+(89, 8, 0) ***Quest Guard***
+Message:
+The clone needs 15000 Wood to finish growing...
+You must bring 15000 Wood.
+Are you ready to hatch the clone for 15000 Wood?
+
+(92, 7, 0) ***Quest Guard***
+Message:
+The clone needs 15000 Wood to finish growing...
+You must bring 15000 Wood.
+Are you ready to hatch the clone for 15000 Wood?
+
+(95, 6, 0) ***Quest Guard***
+Message:
+The clone needs 15000 Wood to finish growing...
+You must bring 15000 Wood.
+Are you ready to hatch the clone for 15000 Wood?
+
+(89, 6, 0) ***Prison***
+Name:
+Evil Clone
+
+(86, 9, 0) ***Sign***
+Message:
+Secret evil cloning laboratory, keep out.
+
+(85, 10, 0) ***Event***
+Message:
+A wild pack of dogs have become tame.
+
+(89, 2, 0) ***Event***
+Message:
+The troll king challenges you to fight him, if you are able to win his clan will join you.
+
+(121, 17, 0) ***Prison***
+Name:
+Supreme Mage
+
+(101, 111, 0) ***Faerie Dragon***
+Message:
+As you approach, you overhear the dragons chatting while they huddle around some red armour lying on the ground.		 "Here it is lads, the ancient dragon heirloom that we can use to awaken the dragon god from his sleep and rule the world once more, Muhahahaha. Hey George, grab it and lets..." 		The dragons finally notice you.
+
+(118, 190, 0) ***Ocean Bottle***
+Message:
+I heard there are no heroes that specialize in air elementals.
+
+(63, 163, 0) ***Giant***
+Message:
+Friend.
+
+(61, 163, 0) ***Pandora's Box***
+Message:
+
+
+(145, 248, 0) ***Event***
+Message:
+The teal empire always treated us poorly, we're ready to pledge our swords to you!
+
+(136, 248, 0) ***Event***
+Message:
+The blue empire always treated us poorly, we're ready to pledge our swords to you!
+
+(131, 43, 0) ***Prison***
+Name:
+ElementQueen
+
+(87, 173, 0) ***Conflux***
+Name:
+High Tower
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(23, 154, 0) ***Ancient Behemoth***
+Message:
+"FRESH MEAT."
+
+(247, 145, 0) ***Prison***
+Name:
+Ironside
+
+(40, 88, 0) ***Prison***
+Name:
+Blitzkrieg
+
+(93, 13, 0) ***Pandora's Box***
+Message:
+
+
+(182, 235, 0) ***Pandora's Box***
+Message:
+
+
+(159, 78, 0) ***Pandora's Box***
+Message:
+
+
+(191, 12, 0) ***Conflux***
+Name:
+Air City
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(175, 245, 0) ***Sign***
+Message:
+Element Land by Tadanga, 2019.		A map inspired by 'crapcore'. Thanks for playing!
+
+(175, 248, 0) ***Rampart***
+Name:
+Summer Home
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(221, 183, 1) ***Sign***
+Message:
+Swamp kingdom secret entrance.
+
+(242, 9, 1) ***Pandora's Box***
+Message:
+
+
+(242, 7, 1) ***Pandora's Box***
+Message:
+
+
+(164, 95, 1) ***Sign***
+Message:
+Angel Pass
+
+(171, 107, 1) ***Seer's Hut***
+Message:
+Greetings, Im Racket Rick, May I interest you purchasing a legendary shield for the small price of 300 Wood and 50000 Gold?
+Oh my, that's simply not enough.  I need 300 Wood and 50000 Gold for the shield.
+Finally!  Here, give the 300 Wood and 50000 Gold to me, and I'll give you this in return.
+
+(173, 104, 1) ***Event***
+Message:
+Bandit robbery
+
+(172, 108, 1) ***Sign***
+Message:
+Hustle hut
+
+(172, 104, 1) ***Sign***
+Message:
+Rip and run traven
+
+(212, 144, 1) ***Seer's Hut***
+Message:
+Liquidation clearance sale, dragons for 100 gold each.
+Oh my, that's simply not enough.  I need 500 Gold. 
+Finally!  Here, give the 500 Gold to me, and I'll give you these in return.
+
+(217, 201, 1) ***Armageddon's Blade***
+Message:
+Many creatures of fire have been drawn to the blade, are you willing to fight for that which you desire?
+
+(28, 233, 1) ***Sign***
+Message:
+Cyclops tunnel
+
+(199, 196, 1) ***Water Elemental***
+Message:
+*Cough, cough* "Damn smoke, can't see anything!"
+
+(169, 88, 1) ***Archangel***
+Message:
+"Hello, me and my sword are map decorations. I'm also a part time psychic, using my psychic powers I predict you are using a map editor program to read what I would have said if a hero had talked to me in-game! Wow!"
+
+(105, 230, 1) ***Enchanter***
+Message:
+"Friend!"
+
+(216, 205, 1) ***Sign***
+Message:
+Shakti's natural habitat.
+
+(171, 24, 1) ***Sign***
+Message:
+Dalek nest
+
+(213, 11, 1) ***Sign***
+Message:
+Vampire town
+
+(212, 11, 1) ***Vampire's Cowl***
+Message:
+Zounds of vampires protect this artifact, 		attack?
+
+(186, 10, 1) ***Pandora's Box***
+Message:
+
+
+(185, 6, 1) ***Master Gremlin***
+Message:
+"Get your grubby hands off our secret gem stash!"
+
+(189, 245, 1) ***Angel***
+Message:
+"Hello, my purpose in life is to be a map decoration."
+
+(190, 248, 1) ***Crusader***
+Message:
+"Do not dare try to defile this holy place. I have lived here protecting it from evil my whole life and today shall be no different."
+
+(189, 249, 1) ***Mystic Orb of Mana***
+Message:
+Several devils jump out from behind the trees.	"hehe, now that pesky knight is gone this charm is ours for the taking"		Proceed?
+
+(108, 64, 1) ***Pandora's Box***
+Message:
+
+
+(223, 21, 1) ***Black Dragon***
+Message:
+"The DragonSlayer defeated and trapped us here, please let us escape!"
+
+(222, 20, 1) ***Green Dragon***
+Message:
+"I think hes saving us for a snack."
+
+(220, 20, 1) ***Azure Dragon***
+Message:
+"Please, I have a wife and kids, please dont eat us!"
+
+(223, 25, 1) ***Prison***
+Name:
+DragonSlayer
+
+(223, 26, 1) ***Quest Guard***
+Message:
+Show me that you are a true dragon slayer and I shall join your cause.
+Bring the dragons here and kill them, nothing else will do.
+Excellent!  You have captured the dragons, now cast them into the pit of fire and I shall join you.
+
+(224, 20, 1) ***Gold Dragon***
+Message:
+*sobbing* "We don't wanna be gorgon grub!"
+
+(221, 21, 1) ***Red Dragon***
+Message:
+"Mercy! Mercy!"
+
+(227, 27, 1) ***Sign***
+Message:
+DragonSlayer's den
+
+(60, 138, 1) ***Pandora's Box***
+Message:
+
+
+(36, 74, 1) ***Conflux***
+Name:
+Fusion Land
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(215, 218, 1) ***Dungeon***
+Name:
+Shadow
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(47, 210, 1) ***Dungeon***
+Name:
+Dark Star
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(57, 39, 1) ***Dungeon***
+Name:
+Black Dungeon
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(200, 28, 1) ***Dungeon***
+Name:
+Red Cavern
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(140, 133, 1) ***Inferno***
+Name:
+Heart of Hell
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+Name:
+gates
+Message:
+Heart of Hell has developed a connection!
+
+(134, 125, 1) ***Inferno***
+Name:
+Tower I
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+Name:
+gates
+Message:
+Tower I has developed a connection!
+
+(145, 126, 1) ***Inferno***
+Name:
+Tower III
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+Name:
+gates
+Message:
+Tower III has developed a connection!
+
+Name:
+gate
+Message:
+
+
+(46, 34, 1) ***Lizard Warrior***
+Message:
+"When the world was created my lizard hut was put here for some reason. God works in mysterious ways sometimes."
+
+(247, 53, 1) ***Necropolis***
+Name:
+Nightmare
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(150, 28, 1) ***Prison***
+Name:
+Tadanga
+
+(215, 54, 1) ***Pandora's Box***
+Message:
+
+
+(95, 109, 1) ***Pandora's Box***
+Message:
+
+
+(137, 119, 1) ***Pandora's Box***
+Message:
+
+
+(154, 125, 1) ***Seer's Hut***
+Message:
+My daughter wants a pony for her birthday. Please bring me one and I shall reward you handsomely.
+No luck in finding the 1 War Unicorn?  Please hurry.
+At last! Here is your payment. Are they ready to depart?
+
+(24, 93, 1) ***Prison***
+Name:
+Sea Goddess
+
+(126, 72, 1) ***Pandora's Box***
+Message:
+
+
+(141, 162, 1) ***Imp***
+Message:
+"Master! Master!, I have found the most powerful fire spells and stored them in these shrines for you." 
+
+(136, 93, 1) ***Pandora's Box***
+Message:
+
+
+(129, 94, 1) ***Peasant***
+Message:
+"Please save us!"
+
+(33, 122, 1) ***Pandora's Box***
+Message:
+A strong stench of death is seeping out of the box.
+
+(162, 47, 1) ***Pandora's Box***
+Message:
+
+
+(162, 37, 1) ***Pandora's Box***
+Message:
+
+
+(157, 46, 1) ***Pandora's Box***
+Message:
+
+
+(149, 42, 1) ***Pandora's Box***
+Message:
+
+
+(130, 47, 1) ***Pandora's Box***
+Message:
+
+
+(124, 27, 1) ***Pandora's Box***
+Message:
+
+
+(123, 41, 1) ***Pandora's Box***
+Message:
+
+
+(126, 35, 1) ***Pandora's Box***
+Message:
+
+
+(124, 33, 1) ***Pandora's Box***
+Message:
+
+
+(136, 53, 1) ***Pandora's Box***
+Message:
+
+
+(139, 50, 1) ***Pandora's Box***
+Message:
+
+
+(144, 53, 1) ***Pandora's Box***
+Message:
+
+
+(122, 53, 1) ***Pandora's Box***
+Message:
+
+
+(115, 105, 1) ***Peasant***
+Message:
+"WAIT! IT WAS JUST A JOKE, PLEASE DONT HURT ME!!!"
+
+(92, 3, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(92, 4, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(91, 15, 1) ***Pandora's Box***
+Message:
+
+
+(92, 14, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(92, 15, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(91, 16, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(101, 8, 1) ***Pandora's Box***
+Message:
+
+
+(100, 9, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(101, 13, 1) ***Pandora's Box***
+Message:
+
+
+(99, 13, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(101, 14, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(86, 9, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(89, 6, 1) ***Event***
+Message:
+You awake in a strange place with the other kings and queens of the world, an evil wizard floats nearby watching over you all menacingly. The wizard's pet dragon has a hungry look in its eyes.		One of your bodyguards pipes up: "We need to get out of here fast! Hurry to the portal my lord! there isn't any time to spare!"		You look longingly at the white key tent and Pandora's box, but you know that there is no time to spare and must leave them behind.
+
+(93, 5, 1) ***Event***
+Message:
+You awake in a strange place with the other kings and queens of the world, an evil wizard floats nearby watching over you all menacingly. The wizard's pet dragon has a hungry look in its eyes.		One of your bodyguards pipes up: "We need to get out of here fast! Hurry to the portal my lord! there isn't any time to spare!"		You look longingly at the white key tent and Pandora's box, but you know that there is no time to spare and must leave them behind.
+
+(98, 9, 1) ***Event***
+Message:
+You awake in a strange place with the other kings and queens of the world, an evil wizard floats nearby watching over you all menacingly. The wizard's pet dragon has a hungry look in its eyes.		One of your bodyguards pipes up: "We need to get out of here fast! Hurry to the portal my lord! there isn't any time to spare!"		You look longingly at the white key tent and Pandora's box, but you know that there is no time to spare and must leave them behind.
+
+(97, 12, 1) ***Event***
+Message:
+You awake in a strange place with the other kings and queens of the world, an evil wizard floats nearby watching over you all menacingly. The wizard's pet dragon has a hungry look in its eyes.		One of your bodyguards pipes up: "We need to get out of here fast! Hurry to the portal my lord! there isn't any time to spare!"		You look longingly at the white key tent and Pandora's box, but you know that there is no time to spare and must leave them behind.
+
+(93, 13, 1) ***Event***
+Message:
+You awake in a strange place with the other kings and queens of the world, an evil wizard floats nearby watching over you all menacingly. The wizard's pet dragon has a hungry look in its eyes.		One of your bodyguards pipes up: "We need to get out of here fast! Hurry to the portal my lord! there isn't any time to spare!"		You look longingly at the white key tent and Pandora's box, but you know that there is no time to spare and must leave them behind.
+
+(89, 12, 1) ***Event***
+Message:
+The mind slave is completely under your control. Time to send it back to its capital and have it declare you the one true master of all the land! Through its eyes you can see several angels are closing in to try and dispel the binding magic, better hurry to the portal before they can reach you.
+
+(97, 5, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(97, 6, 1) ***Event***
+Message:
+You awake in a strange place with the other kings and queens of the world, an evil wizard floats nearby watching over you all menacingly. The wizard's pet dragon has a hungry look in its eyes.		One of your bodyguards pipes up: "We need to get out of here fast! Hurry to the portal my lord! there isn't any time to spare!"		You look longingly at the white key tent and Pandora's box, but you know that there is no time to spare and must leave them behind.
+
+(100, 3, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(86, 6, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(89, 4, 1) ***Pandora's Box***
+Message:
+
+
+(89, 5, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(86, 5, 1) ***Event***
+Message:
+The evil wizard's pet dragon lunges forward viciously devouring your bodyguards. In hindsight perhaps heading straight to the portal would have been wise.
+
+(97, 4, 1) ***Pandora's Box***
+Message:
+
+
+(88, 12, 1) ***Event***
+Message:
+The angels descend upon the mind slave trying to beat the magic out of it with their swords.
+
+(88, 13, 1) ***Event***
+Message:
+The angels descend upon the mind slave trying to beat the magic out of it with their swords.
+
+(87, 12, 1) ***Pandora's Box***
+Message:
+
+
+(91, 5, 1) ***Pandora's Box***
+Message:
+
+
+(141, 13, 1) ***Pandora's Box***
+Message:
+
+
+(120, 20, 1) ***Prison***
+Name:
+Archer
+
+(153, 2, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Death.
+Without the Pendant of Death, no exchange can be made!
+Are you ready to exchange the Pendant of Death for dragons?
+
+(171, 5, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Life.
+Without the Pendant of Life, no exchange can be made!
+Are you ready to exchange the Pendant of Life for dragons?
+
+(150, 5, 1) ***Sign***
+Message:
+Life and Death temple
+
+(174, 5, 1) ***Sign***
+Message:
+Life and Death temple
+
+(132, 153, 1) ***Orb of Tempestuous Fire***
+Message:
+You dare steal from the fire gods?
+
+(25, 82, 1) ***Orb of the Firmament***
+Message:
+"Hands off rebel scum!"
+
+(142, 134, 1) ***Pendant of Death***
+Message:
+While picking up the necklace, you suspect it will be needed for a quest later.
+
+(215, 221, 1) ***Pendant of Death***
+Message:
+While picking up the necklace, you suspect it will be needed for a quest later.
+
+(18, 105, 1) ***Pandora's Box***
+Message:
+
+
+(76, 43, 1) ***Pandora's Box***
+Message:
+
+
+(62, 199, 1) ***Pandora's Box***
+Message:
+
+
+(105, 100, 1) ***Sign***
+Message:
+Hi.
+
+(204, 172, 1) ***Haspid***
+Message:
+"Nobody ever comes to our island-hsssssss, most are scared of us-ssssss, but we're actually very friendly-hhhsssssss."
+
+(183, 107, 1) ***Rogue***
+Message:
+"Hand over all your gold and nobody has to get hurt!"
+
+(12, 160, 1) ***Pandora's Box***
+Message:
+
+
+(75, 130, 1) ***Pandora's Box***
+Message:
+
+
+(32, 214, 1) ***Pandora's Box***
+Message:
+
+
+(46, 6, 1) ***Event***
+Message:
+"No point visiting that quest tower, I can't smell any bacon sandwiches behind it, lets look somewhere else."
+
+(224, 143, 1) ***Pandora's Box***
+Message:
+
+
+(236, 47, 1) ***Pandora's Box***
+Message:
+
+
+(193, 19, 1) ***Pandora's Box***
+Message:
+A large group of peasants have gathered inside the Pandora's box. They speak of an ancient legend where a necromancer can use a cloak of the undead to raise liches. The peasants have all come together in an effort to defeat this evil with their overwhelming numbers.
+
+(192, 19, 1) ***Event***
+Message:
+Angels come out of their church to smite you!
+
+(191, 19, 1) ***Event***
+Message:
+Holy angels defend this place from the hands of evil, turn back or die!
+
+(140, 124, 1) ***Inferno***
+Name:
+Tower II
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+Name:
+gates
+Message:
+Tower II has developed a connection!
+
+Name:
+gate
+Message:
+
+
+(139, 121, 1) ***Pandora's Box***
+Message:
+Secret Stash!
+
+(87, 8, 1) ***Pandora's Box***
+Message:
+
+
+(88, 10, 1) ***Event***
+Message:
+You awake in a strange place with the other kings and queens of the world, an evil wizard floats nearby watching over you all menacingly. The wizard's pet dragon has a hungry look in its eyes.		One of your bodyguards pipes up: "We need to get out of here fast! Hurry to the portal my lord! there isn't any time to spare!"		You look longingly at the white key tent and Pandora's box, but you know that there is no time to spare and must leave them behind.
+
+(202, 232, 1) ***Pandora's Box***
+Message:
+
+
+(171, 6, 1) ***Pandora's Box***
+Message:
+
+
+(169, 6, 1) ***Pandora's Box***
+Message:
+
+
+(167, 6, 1) ***Pandora's Box***
+Message:
+
+
+(165, 6, 1) ***Pandora's Box***
+Message:
+
+
+(161, 6, 1) ***Pandora's Box***
+Message:
+
+
+(163, 6, 1) ***Pandora's Box***
+Message:
+
+
+(157, 6, 1) ***Pandora's Box***
+Message:
+
+
+(159, 6, 1) ***Pandora's Box***
+Message:
+
+
+(155, 6, 1) ***Pandora's Box***
+Message:
+
+
+(153, 6, 1) ***Pandora's Box***
+Message:
+
+
+(153, 1, 1) ***Pandora's Box***
+Message:
+
+
+(155, 1, 1) ***Pandora's Box***
+Message:
+
+
+(157, 1, 1) ***Pandora's Box***
+Message:
+
+
+(159, 1, 1) ***Pandora's Box***
+Message:
+
+
+(161, 1, 1) ***Pandora's Box***
+Message:
+
+
+(163, 1, 1) ***Pandora's Box***
+Message:
+
+
+(165, 1, 1) ***Pandora's Box***
+Message:
+
+
+(167, 1, 1) ***Pandora's Box***
+Message:
+
+
+(169, 1, 1) ***Pandora's Box***
+Message:
+
+
+(171, 1, 1) ***Pandora's Box***
+Message:
+
+
+(130, 245, 1) ***Pegasus***
+Message:
+"Wasupppp!"
+
+(131, 244, 1) ***Silver Pegasus***
+Message:
+"Wwwaaaaasssssssssssssuuuppp!"
+
+(233, 127, 1) ***Pandora's Box***
+Message:
+
+
+(115, 209, 1) ***Pandora's Box***
+Message:
+
+
+(166, 182, 1) ***Pandora's Box***
+Message:
+
+
+(34, 154, 1) ***Castle***
+Name:
+Angel Paradise
+
+Timed events:
+
+Name:
+S
+Message:
+
+
+Name:
+ss
+Message:
+
+
+(129, 63, 1) ***Conflux***
+Name:
+Beach House
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(134, 16, 1) ***Conflux***
+Name:
+Oldtown
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(173, 99, 1) ***Sign***
+Message:
+Scam fort
+
+(183, 106, 1) ***Conflux***
+Name:
+Shakedown City
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(226, 22, 1) ***Quest Guard***
+Message:
+A powerful wizard owns this tower.  He refuses to let you pass unless you bring him the Power of the Dragon Father so he can destroy it.
+
+(226, 21, 1) ***Pandora's Box***
+Message:
+
+
+(77, 251, 1) ***Pandora's Box***
+Message:
+
+
+(130, 248, 1) ***Pandora's Box***
+Message:
+ONE MILLION AZURE DRAGONS GUARD THIS BOX, READY TO DIE?
+
+(155, 27, 1) ***Sign***
+Message:
+Numa ruins
+
+(151, 27, 1) ***Pandora's Box***
+Message:
+
+
+(195, 30, 1) ***Pandora's Box***
+Message:
+Friend.
+
+(197, 32, 1) ***Pandora's Box***
+Message:
+Also friend.
+
+(4, 91, 1) ***Pandora's Box***
+Message:
+
+
+(229, 74, 1) ***Pandora's Box***
+Message:
+
+
+(86, 15, 1) ***Event***
+Message:
+The angels descend upon the mind slave trying to beat the magic out of it with their swords.
+
+(242, 17, 1) ***Pandora's Box***
+Message:
+
+
+(50, 6, 1) ***Pandora's Box***
+Message:
+Evil Wizard's lunch box.
+
+(89, 17, 1) ***Archangel***
+Message:
+"Commander!"
+
+(13, 15, 1) ***Event***
+Message:
+You sense an intense evil aura from the other side of the portal. This must be the entrance to Evil Wizard's lair.
+
+(58, 246, 1) ***Pandora's Box***
+Message:
+
+
+(62, 246, 1) ***Pandora's Box***
+Message:
+
+
+(60, 246, 1) ***Pandora's Box***
+Message:
+
+
+(56, 246, 1) ***Pandora's Box***
+Message:
+
+
+(54, 246, 1) ***Pandora's Box***
+Message:
+
+
+(64, 246, 1) ***Pandora's Box***
+Message:
+
+
+(106, 2, 1) ***Event***
+Message:
+Christian's diary I		It's been several days since all the great rulers of the land were taken by some ill magic. After rallying the kingdoms elite force of angels we have tracked them down and sent out multiple parties of angels to try and find the source of the spell they are all under. One party has returned saying they have found a portal that leads straight to an evil wizard's secret base, however the portal will take a week to reach. The angels are sure this is the root of the dark magic and slaying the wizard will save the kingdom.
+
+(83, 3, 1) ***Event***
+Message:
+Christian's diary V		A small imp was waiting for us next to the tower. He said it is within his power to send us back home to our kingdom. However, there have been murmurs of dissension among the angels. Should I choose to return home, I fear they shall continue their quest without me...
+
+(103, 3, 1) ***Event***
+Message:
+Christian's diary II		Another scout has returned saying that the kings and queens have all left through town portals, but he doesn't know if the dark magic was undone. Many of the angels have not returned and those still with us wish to hunt down and vanquish the wizard.
+
+(94, 19, 1) ***Event***
+Message:
+"You will never stop our master!"
+
+(83, 15, 1) ***Event***
+Message:
+Another ambush comes bouncing out of the undergrowth with their leader prattling on about how great his master is.
+
+(82, 11, 1) ***Event***
+Message:
+An old man stops you on the road and asks you to deal with a bandit that has kicked him out of his gazebo. Through gritted teeth you agree to help.
+
+(23, 21, 1) ***Quest Guard***
+Message:
+Only a Pirate can unlock this door.
+Only a Pirate can unlock this door.
+The Pirate asks if you're ready to pass?
+
+(29, 19, 1) ***Sign***
+Message:
+Evil Wizard's top secret evil lair.
+
+(5, 251, 1) ***Event***
+Message:
+
+
+(32, 239, 1) ***Cyclops King***
+Message:
+"MIGHTY CYCLOPS GANG RISE NOW AND CONQUER SURFACE WORLD!!"
+
+(22, 236, 1) ***Cyclops***
+Message:
+"MINE! NOT YOURS!"
+
+(80, 10, 1) ***Event***
+Message:
+Christian's diary III		A terrible nightmare has plagued my sleep, I dreamed our whole angel power stack was one shot killed in battle. Perhaps this might be a fool's errand...
+
+(214, 2, 1) ***Vampire Lord***
+Message:
+"Master!"
+
+(38, 62, 1) ***Prison***
+Name:
+Frozen King
+
+(35, 63, 1) ***Pandora's Box***
+Message:
+
+
+(197, 1, 1) ***Sign***
+Message:
+Hi, I'am a shapeshifter that disguises myself as a sign post. Please move along now.
+
+(198, 1, 1) ***Event***
+Message:
+Secret army!
+
+(127, 135, 1) ***Event***
+Message:
+While sailing down the lake, a crystal dragon climbs into your boat while proudly talking at great lengths about its patriotism for the red empire.
+
+(0, 229, 1) ***Helm of Heavenly Enlightenment***
+Message:
+evil wiz quest	evil wiz box	top edge in the middle under ground.
+
+(1, 229, 1) ***Lion's Shield of Courage***
+Message:
+sand island surface.	teleport island bottom edge
+
+(0, 230, 1) ***Sword of Judgement***
+Message:
+desert	white to way sea portal cave
+
+(1, 230, 1) ***Vial of Lifeblood***
+Message:
+vampire city quest	element hero prison underground
+
+(0, 231, 1) ***Dragon Scale Armor***
+Message:
+mutare tan	tan starting area
+
+(1, 233, 1) ***Angel Feather Arrows***
+Message:
+1 underground  secret passage above tan	snow treasure box zone
+
+(0, 234, 1) ***Orb of Vulnerability***
+Message:
+desert area	green 2way 100 azure quest	key master town
+
+(1, 225, 1) ***Orb of Inhibition***
+Message:
+underground river garrision	
+
+(1, 234, 1) ***Spell Scroll***
+Message:
+tt x6	dd x1 (x2 purple)
+
+(1, 221, 1) ***Ogre's Club of Havoc***
+Message:
+never appear
+
+(1, 222, 1) ***Angel Wings***
+Message:
+never appear
+
+(1, 223, 1) ***Necklace of Ocean Guidance***
+Message:
+none
+
+(1, 224, 1) ***Recanter's Cloak***
+Message:
+never appear
+
+(163, 134, 1) ***Pandora's Box***
+Message:
+
+
+(62, 235, 1) ***Sign***
+Message:
+The man resting here died of old age while waiting for the next installment of his favorite medieval fantasy novel to be released. 
+
+(74, 235, 1) ***Monk***
+Message:
+“If you strike me down, I shall become more powerful than you can possibly imagine.”
+
+(50, 132, 1) ***Sign***
+Message:
+Fairy pass
+
+(154, 35, 1) ***Armageddon's Blade***
+Message:
+Ready to die?
+
+(81, 5, 1) ***Event***
+Message:
+Christian's diary IV		Scouts report a one way portal ahead, It must be the entrance to the wizard's lair. Also beyond that they bring word of two town portals, they say the one to the northwest asks for an absurd about of gems for passage. However, the northeastern portal is controlled by an imp sympathetic to our cause.
+
+(83, 2, 1) ***Quest Guard***
+Message:
+The imp is ready to open the gate for you, but the angels will leave...
+Ready to go home?
+The angels turn to leave, are you ready to go home?
+
+(4, 251, 1) ***Event***
+Message:
+A guard shouts loudly from the tower:		"2000 GEMS OR GET LOST!!!"
+
+(238, 38, 1) ***Silver Pegasus***
+Message:
+"Hey I just met you, and this is crazy, but here's my number, so call me maybe!"
+
+(233, 39, 1) ***Pegasus***
+Message:
+"I've been trapped in this underground tomb for as long as I can remember, how the hell did I even get in here!?"
+
+(143, 240, 1) ***Pegasus***
+Message:
+"Did you know 65% of statistics are made up?"
+
+(118, 242, 1) ***Silver Pegasus***
+Message:
+"Psst, wanna know a secret? I'am an alien from another dimension!"
+
+(87, 231, 1) ***Pegasus***
+Message:
+"You are now in manual breathing mode."
+
+(156, 231, 1) ***Silver Pegasus***
+Message:
+"Hey bro, did you know I was one of the first dudes placed on this map? I've been sitting here watching the whole thing be built all around me. Do you have any idea how long it takes to make a 252x252+UG map!? ITS BEEN OVER A YEAR!!!"
+
+(111, 105, 1) ***Event***
+Message:
+A squeaky voice calls out to you from atop the mountains.		"Oi, you ya muppet, bet I could take you any day!"
+
+(89, 59, 1) ***Prison***
+Name:
+Dragon God
+
+(29, 16, 1) ***Event***
+Message:
+Dark magic drains all hope...
+
+(139, 34, 1) ***Pandora's Box***
+Message:
+
+
+(133, 43, 1) ***Pandora's Box***
+Message:
+
+
+(57, 243, 1) ***Event***
+Message:
+*Sniff, sniff* "Nope, no strawberry jam donuts here boss, let's move out."
+
+(119, 4, 1) ***Armageddon's Blade***
+Message:
+A terrifying flame monster comes forth from the blade, will you risk fighting it?
+
+(99, 1, 1) ***Event***
+Message:
+"Surrender to the light and we will spare your soul!"
+
+(62, 24, 1) ***Event***
+Message:
+"Another lamb to the slaughter, witness the true power of a master assassin. You're finished!"
+
+(48, 18, 1) ***Event***
+Message:
+
+
+(42, 19, 1) ***Quest Guard***
+Message:
+A sea monster has been terrorizing our neighborhood, please get rid of it for us.
+Is the monster gone yet?
+Thank goodness, you've saved us all!
+
+(49, 22, 1) ***Ocean Bottle***
+Message:
+Keep away! There is a terrible monster in this cove! It will lure you to a watery grave with its mind control powers and eat your brains.
+
+(42, 18, 1) ***Quest Guard***
+Message:
+Actually, we've decided we want the monster to join our village and protect us, please bring it back, it can't have gone far.
+Please bring it back here!
+Excellent! You have found the sea monster! Thank you so much!
+
+(50, 23, 1) ***Fangarm***
+Message:
+"BLAUGRAAARAAAA!"
+
+(74, 74, 1) ***Pandora's Box***
+Message:
+
+
+(41, 5, 1) ***Quest Guard***
+Message:
+While travelling through your lair, you decide the caretaker has not been serving you well enough and offer him up as a snack to your dragon.
+You do still have the Psychic Element do you not?
+Your dragon licks his lips and moves in for the snack.
+
+(198, 201, 1) ***Sprite***
+Message:
+"Somebody's poisoned the waterhole!"
+
+(196, 213, 1) ***Gold***
+Message:
+Secret stash!
+
+(192, 211, 1) ***Seer's Hut***
+Message:
+Greetings, I'am a renowned artisan of eyeball prosthetics. Bring me some bits and bobs and I can get to work!
+No luck in finding the 1 Beholder and 1 Evil Eye?
+At last, the 1 Beholder and 1 Evil Eye. Time to get to work!
+
+(213, 203, 1) ***Event***
+Message:
+"Special secret black ops jungle elite sniper seal team 6 emerge!"
+
+(1, 220, 1) ***Dead Man's Boots***
+Message:
+never appear
+
+(1, 219, 1) ***Shield of the Yawning Dead***
+Message:
+1 sea hero cave
+
+(0, 233, 1) ***Pendant of Second Sight***
+Message:
+x4	1 in sea under purple main	1 in secret fire jungle path	1 from quest near tan starting zone.	golden palace eyeball
+
+(208, 210, 1) ***Pandora's Box***
+Message:
+
+
+(20, 150, 1) ***Pandora's Box***
+Message:
+
+
+(31, 158, 1) ***Devil***
+Message:
+"Hehehe, we're devils, hehehe, and we're up to no good, hehehe, that's our backstory, hehehe!"
+
+(199, 202, 1) ***Armageddon's Blade***
+Message:
+Great flames pour out of the blade, as do monsters, will you stand your ground?
+
+(26, 13, 1) ***Gold***
+Message:
+Pet dragon's secret piggy bank! Jackpot!
+
+(240, 172, 1) ***Event***
+Message:
+"You will never steal the pirate key master's secrets while we still stand!"
+
+(131, 51, 1) ***Pandora's Box***
+Message:
+
+
+(169, 5, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Life.
+Without the Pendant of Life, no exchange can be made!
+Are you ready to exchange the Pendant of Life for dragons?
+
+(167, 5, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Life.
+Without the Pendant of Life, no exchange can be made!
+Are you ready to exchange the Pendant of Life for dragons?
+
+(165, 5, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Life.
+Without the Pendant of Life, no exchange can be made!
+Are you ready to exchange the Pendant of Life for dragons?
+
+(163, 5, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Life.
+Without the Pendant of Life, no exchange can be made!
+Are you ready to exchange the Pendant of Life for dragons?
+
+(161, 5, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Life.
+Without the Pendant of Life, no exchange can be made!
+Are you ready to exchange the Pendant of Life for dragons?
+
+(159, 5, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Life.
+Without the Pendant of Life, no exchange can be made!
+Are you ready to exchange the Pendant of Life for dragons?
+
+(157, 5, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Life.
+Without the Pendant of Life, no exchange can be made!
+Are you ready to exchange the Pendant of Life for dragons?
+
+(155, 5, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Life.
+Without the Pendant of Life, no exchange can be made!
+Are you ready to exchange the Pendant of Life for dragons?
+
+(153, 5, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Life.
+Without the Pendant of Life, no exchange can be made!
+Are you ready to exchange the Pendant of Life for dragons?
+
+(155, 2, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Death.
+Without the Pendant of Death, no exchange can be made!
+Are you ready to exchange the Pendant of Death for dragons?
+
+(157, 2, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Death.
+Without the Pendant of Death, no exchange can be made!
+Are you ready to exchange the Pendant of Death for dragons?
+
+(159, 2, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Death.
+Without the Pendant of Death, no exchange can be made!
+Are you ready to exchange the Pendant of Death for dragons?
+
+(161, 2, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Death.
+Without the Pendant of Death, no exchange can be made!
+Are you ready to exchange the Pendant of Death for dragons?
+
+(163, 2, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Death.
+Without the Pendant of Death, no exchange can be made!
+Are you ready to exchange the Pendant of Death for dragons?
+
+(165, 2, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Death.
+Without the Pendant of Death, no exchange can be made!
+Are you ready to exchange the Pendant of Death for dragons?
+
+(167, 2, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Death.
+Without the Pendant of Death, no exchange can be made!
+Are you ready to exchange the Pendant of Death for dragons?
+
+(169, 2, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Death.
+Without the Pendant of Death, no exchange can be made!
+Are you ready to exchange the Pendant of Death for dragons?
+
+(171, 2, 1) ***Quest Guard***
+Message:
+The monks living here are willing to trade dragons for the return of any Pendants of Death.
+Without the Pendant of Death, no exchange can be made!
+Are you ready to exchange the Pendant of Death for dragons?
+
+(31, 18, 1) ***Event***
+Message:
+A sinister voice speaks into your mind.		"So, you have chosen death..."
+
+(30, 19, 1) ***Event***
+Message:
+As you are trying to remember the words for water walk or summon boat so that you can reach the secret escape door, your pet dragon breaks into song.		"Row, row, row your boat	Gently down the stream	Merrily, merrily, me-"		You glare at him and he trails off sharply.
+
+(29, 17, 1) ***Event***
+Message:
+*AACHOO, AAACHOOOOOOOOOOO!!!!!!!!*		Your pet dragon starts sneezing uncontrollably. You look around but can't see any angels close by. The only thing here is the cyan portal. Could there be an angel strike force inbound to raid your base? Perhaps it would be safer to leave this place and hide within the purple empire's lands...
+
+(63, 174, 1) ***Sign***
+Message:
+The following garrison was designed by Satan himself.
+
+(209, 23, 1) ***Stronghold***
+Name:
+River Outpost
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(141, 38, 1) ***Pandora's Box***
+Message:
+
+
+(30, 10, 1) ***Event***
+Message:
+"You're gonna use all this gold to buy me some tasty dragon treats right, right!?"
+
+(227, 28, 1) ***Red Dragon***
+Message:
+"Alright gang, that chump that calls himself the 'DragonSlayer' has to be around here somewhere, we'll turn him into BBQ before he can even... Hey! Who the hell is that!?"
+
+(179, 78, 1) ***Green Dragon***
+Message:
+"These blasted cows are ruining everything! We are dragons! Nothing should be able to stop our onslaught!"
+
+(8, 251, 1) ***Event***
+Message:
+"Here master, I have saved a copy of the water walk spell, its on the other side of this gate, let me open it for you."
+
+(9, 251, 1) ***Quest Guard***
+Message:
+Only a Psychic Elemental can unlock this gate.
+Only a Psychic Elemental can unlock this gate.
+The Psychic Elemental leans forward, unlocking the gate, then vanishes into a cloud of smoke taking several of his buddies with him.
+
+(228, 31, 1) ***Ocean Bottle***
+Message:
+ALL DRAGONS, KEEP OUT OR DIE!
+
+(11, 47, 1) ***Pandora's Box***
+Message:
+
+
+(10, 47, 1) ***Prison***
+Name:
+Golden Haart
+
+(93, 9, 1) ***Warlock***
+Name:
+Evil Wizard
+Biography:
+Evil Wizard has a evil and mysterious past.
+
+(44, 3, 1) ***Event***
+Message:
+"Master! Welcome home!"
+
+(92, 9, 1) ***Crystal Dragon***
+Message:
+"I'm hungry! Let me eat one of those flesh bags? pretty please!"		You contemplate the past decision of using magic to make your pet dragon capable of speech.
+
+(58, 243, 1) ***Event***
+Message:
+
+
+(113, 147, 1) ***Quest Guard***
+Message:
+Only a rogue has the skill set needed to open this door...
+Only a rogue has the skill set needed to open this door...
+The rogue moves forward ready to unlock the door, proceed?
+
+(114, 148, 1) ***Armageddon's Blade***
+Message:
+A voice speaks from the flames surrounding the blade:		"You didn't think it would be that easy did you?"
+
+(97, 61, 1) ***Gold Golem***
+Message:
+"Master!"
+
+(99, 59, 1) ***Prison***
+Name:
+Nomad King
+
+(105, 145, 1) ***Sign***
+Message:
+Key Master City
+
+(116, 152, 1) ***Event***
+Message:
+The key masters welcome you to their city with a gift.
+
+(243, 36, 1) ***Event***
+Message:
+Secret army!
+
+(203, 63, 1) ***Pandora's Box***
+Message:
+Refund!
+
+(51, 2, 1) ***Sign***
+Message:
+Element Land by Tadanga, 2019.		A map inspired by 'crapcore'. Thanks for playing!
+
+(51, 3, 1) ***Archangel***
+Message:
+"You did it! Evil Wizard is dead and the world saved! Hip hip hurray! Hip hip hurray!"
+
+(48, 1, 1) ***Crystal Dragon***
+Message:
+"I ate a whole family sized box of chocolate donuts while you were fighting, do what you must, I've already won."
+
+(24, 21, 1) ***Event***
+Message:
+A Pirate hauls himself out of the water before you.		"I can unlock this door... For a price!"
+
+(25, 9, 1) ***Arch Devil***
+Message:
+"Evil Wizard hired us to get rid of all the pesky angels around here, guess that means dealing with you as well!"
+
+(46, 5, 1) ***Event***
+Message:
+You remember back to the first day of your adventure when that Crystal Dragon tried to turn you into lunch. No score to small to settle.
+
+(49, 3, 1) ***Quest Guard***
+Message:
+Evil Wizard's pet dragon is protected by his dark magic.
+Evil Wizard still lives, so you cannot pass.
+Time to finish your adventure?
+
+(48, 2, 1) ***Pandora's Box***
+Message:
+Evil Wizard's pet dragon calls out to you from the other side of the box.		"Hey man, I'm just the sidekick, I promise I'll be a good dragon if you let me go, look, I've even gathered up all his treasure inside this Pandora's Box for you! Go on take it, it's all yours now!"
+
+(15, 12, 1) ***Event***
+Message:
+Scouts report:		Evil Wizard and his pet dragon are both believed to be on the other side of this portal. Over the last few months he has been conjuring up many powerful monsters to defend the both of them. Destroying the pair will save the world and complete this adventure! 
+
+(56, 240, 1) ***Prison***
+Name:
+Evil Clone
+
+(42, 1, 1) ***Quest Guard***
+Message:
+Master, this part of the base needs repairs, it will cost 100 Mercury to get things back up and running again.
+Only 100 Mercury will do, nothing else.
+The Mercury has been collected, time to reopen this part of the base!
+
+(113, 157, 1) ***Magic Elemental***
+Message:
+"Tell us where the rogue is, or else!"
+
+(115, 146, 1) ***Sign***
+Message:
+Rogue for hire! Visit me at my Gazebo just a days ride south of here!
+
+(115, 156, 1) ***Event***
+Message:
+A small rogue pops out of the undergrowth.		"Greetings adventurer, I see you've noticed the Armageddon's Blade near Key Master City. I can help you steal it if you'd like..."		 "Walk with me back to my Gazebo and we can discuss my payment, I don't work for free you know, with over 30 years experience in the field and many fantastic references I require quite the hefty salary, heheh."		You consider hiring the rogue... The blade could be very useful, but the Key Masters' Tents would be left unprotected from your enemies...
+
+(116, 156, 1) ***Event***
+Message:
+You pay the rogue for the "Deluxe artifact acquisition package".
+
+(126, 226, 1) ***Silver Pegasus***
+Message:
+"I gave my horse Red Bull and now it has wings!"
+
+(239, 197, 1) ***Sign***
+Message:
+Moo Moo Farm
+
+(242, 199, 1) ***Mighty Gorgon***
+Message:
+"MOOOOOO!!!!"
+
+(237, 197, 1) ***Mighty Gorgon***
+Message:
+"MoooOOOOooooooooOOooo!"
+
+(239, 196, 1) ***Fangarm***
+Message:
+"There is no better taste than cow meat!"
+
+(28, 165, 1) ***Gold***
+Message:
+Treasure!
+
+(93, 59, 1) ***Event***
+Message:
+A group of Black Dragons have self tamed!
+
+(131, 119, 1) ***Pandora's Box***
+Message:
+
+
+(33, 1, 1) ***Pandora's Box***
+Message:
+
+
+(91, 0, 1) ***Event***
+Message:
+
+
+(179, 162, 1) ***Prison***
+Name:
+Dracula
+
+(104, 120, 1) ***Pandora's Box***
+Message:
+
+
+(115, 22, 1) ***Prison***
+Name:
+Archer Jr
+
+(11, 42, 1) ***Sign***
+Message:
+Should you require a spare key, please speak to the eyeball over there.
+
+(7, 43, 1) ***Event***
+Message:
+The giant eyeball speaks into your mind using telekinesis:		"Yo-yo-yo! Whats up dog? Here, take this ma brother."
+
+(12, 39, 1) ***Conflux***
+Name:
+Golden Palace
+
+Timed events:
+
+Name:
+boost
+Message:
+
+
+(89, 34, 1) ***Pandora's Box***
+Message:
+
+
+(96, 35, 1) ***Pandora's Box***
+Message:
+
+
+(93, 36, 1) ***Prison***
+Name:
+Great Hero
+
+(93, 34, 1) ***Prison***
+Name:
+Prophet
+
+(39, 8, 1) ***Event***
+Message:
+Your pet dragon complains to you about there being angels here. Apparently, he is allergic to them and keeps sneezing every now and again.	
+
+(61, 23, 1) ***Hideous Mask***
+Message:
+The cold hands of death reach out for you. Stand your ground?
+
+(90, 42, 1) ***Monk***
+Message:
+"What is the music of life?"
+
+(87, 41, 1) ***Pandora's Box***
+Message:
+
+
+(176, 192, 1) ***Sign***
+Message:
+Here stands the only rogue den in the whole world!
+
+(96, 40, 1) ***Sign***
+Message:
+Artifacts wanted!		All the artifacts displayed here are replicas of items wanted throughout the land by quest guards and seer huts!
+
+(180, 140, 1) ***Event***
+Message:
+Thousands of titans and dragons have gathered outside the white key master tent. They will not allow you to pass unless you can make them laugh. You tell them your best knock knock joke, but it's not enough, none of them even so much as smile. You turn away defeated, knowing that you'll never be strong enough to fight them.
+
+(181, 140, 1) ***Event***
+Message:
+Determined to visit the tent you step forward again with a new joke. 		"A titan, an azure dragon and a black dragon walk into a bar."	"The bartender asks 'What will it be?'"	"The titan says 'I'll have a beer.' No wait, he says he wants a cider!"	"Then the azure dragon says 'I'll drink anything so long as--' Em, wait a minute, let me start over."		The dragons and titans all descend upon you.
+
+(183, 137, 1) ***Event***
+Message:
+Just as you are about to leave the area, some of the dragons from the tent come over to you chuckling. They think your hairstyle is quite amusing and it's inspired them to want to join your army.
+
+(56, 110, 1) ***Crusader***
+Message:
+"I will never allow you to steal the holy grail!"
+
+(54, 107, 1) ***Pandora's Box***
+Message:
+
+
+(149, 10, 1) ***Pandora's Box***
+Message:
+
+
+(6, 100, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====
