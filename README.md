@@ -1,5 +1,5 @@
 # HoMM3-maps
-My maps for Heroes of Might and Magic III - Horn of the Abyss (1.6.1). A few of these maps are publically released on Heroes Community, but feel free to try anything you find in the repository them if you're interested. I would recommend not playing any of the maps found in the WIP directory though, even though some might look finished.
+My maps for Heroes of Might and Magic III - Horn of the Abyss (1.7.0). A few of these maps are publically released on Heroes Community and a couple on maps4heroes.com, but feel free to try anything you find in the repository if you're interested. I would recommend not playing any of the maps found in the WIP directory though, even though some might look finished.
 
 ## Map descriptions
 
@@ -11,7 +11,7 @@ My maps for Heroes of Might and Magic III - Horn of the Abyss (1.6.1). A few of 
 
 ## Maps without water
 
-In maps without water, all water-related things are disabled, much like HotA does with random maps. This includes:
+In maps without water, all water-related things are disabled, exactly like HotA does with random maps. This includes:
 
 * **Heroes:** Sylvia, Voy and Elmore replaced with Beatrice, Kinkeria and Derek, respectively. The starting spell of Gem has been changed from Summon Boat to Bless.
 
